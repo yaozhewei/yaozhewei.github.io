@@ -16,8 +16,8 @@ I am a Ph.D. student at [RiseLab](https://rise.cs.berkeley.edu/) and [Math Depar
 
 Research
 ======
-1. Hessian-based Analysis of Large Batch Training and Robustness to Adversaries.\s\s 
-Z Yao, A Gholami, Q Lei, K Keutzer, MW Mahoney\s\s
+1. Hessian-based Analysis of Large Batch Training and Robustness to Adversaries.\\
+Z Yao, A Gholami, Q Lei, K Keutzer, MW Mahoney\\
 arXiv preprint [arXiv](https://arxiv.org/pdf/1802.08241)
 2. Inexact non-convex Newton-type methods.
 
