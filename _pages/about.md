@@ -16,41 +16,21 @@ I am a Ph.D. student at [RiseLab](https://rise.cs.berkeley.edu/) and [Math Depar
 
 Research
 ======
-1. Hessian-based Analysis of Large Batch Training and Robustness to Adversaries.\\
+1. <font color="#0000FF"> Hessian-based Analysis of Large Batch Training and Robustness to Adversaries</font>.<br>\\
 Z Yao, A Gholami, Q Lei, K Keutzer, MW Mahoney\\
 arXiv preprint [arXiv](https://arxiv.org/pdf/1802.08241)
-2. Inexact non-convex Newton-type methods.
-
-Z Yao, P Xu, F Roosta-Khorasani, MW Mahoney
-
+2. <font color="#0000FF"> Inexact non-convex Newton-type methods</font>.<br>\\
+Z Yao, P Xu, F Roosta-Khorasani, MW Mahoney\\
 arXiv preprint [arXiv](https://arxiv.org/pdf/1802.06925.pdf)
-
-3. A hybrid adaptive MCMC algorithm in function spaces.
-
-Q Zhou, Z Hu, Z Yao, J Li
-
-arXiv preprint [arXiv](https://arxiv.org/abs/1607.01458)
-
+3. <font color="#0000FF"> A hybrid adaptive MCMC algorithm in function spaces</font>.<br>\\
+Q Zhou, Z Hu, Z Yao, J Li\\
+arXiv preprint [arXiv](https://arxiv.org/abs/1607.01458)\\
 SIAM/ASA Journal on Uncertainty Quantification 5 (1), 621-639
-4. On an adaptive preconditioned Crank–Nicolson MCMC algorithm for infinite dimensional Bayesian inference.
-
-Z Hu, Z Yao, J Li
-
-arXiv preprint [arXiv](https://arxiv.org/abs/1511.05838)
-
+4. <font color="#0000FF"> On an adaptive preconditioned Crank–Nicolson MCMC algorithm for infinite dimensional Bayesian inference</font>.<br>\\
+Z Hu, Z Yao, J Li\\
+arXiv preprint [arXiv](https://arxiv.org/abs/1511.05838)\\
 Journal of Computational Physics 332, 492-503
-5. A TV-Gaussian prior for infinite-dimensional Bayesian inverse problems and its numerical implementations
-Z Yao, Z Hu, J Li
-
-arXiv preprint [arXiv](https://arxiv.org/abs/1510.05239)
-
-Inverse Problems 32 (7), 075006
-
-<li>
-                        <font color="#0000FF">Scalable Kernel K-Means Clustering with Nystrom Approximation: Relative-Error Bounds</font>.<br>
-                        <b>Shusen Wang</b>, Alex Gittens, and Michael W. Mahoney.<br>
-                        Accepted by <em>Journal of Machine Learning Research</em> (<b>JMLR</b>), conditioned on minor revisions.<br>
-                        <a href="https://arxiv.org/abs/1706.02803">arXiv:1706.02803</a>.
-                        <br>
-                        <br>
-                    </li>
+5. <font color="#0000FF"> A TV-Gaussian prior for infinite-dimensional Bayesian inverse problems and its numerical implementation</font>.<br>\\
+Z Yao, Z Hu, J Li\\
+arXiv preprint [arXiv](https://arxiv.org/abs/1510.05239)\\
+Inverse Problems 32 (7), 075006\\
