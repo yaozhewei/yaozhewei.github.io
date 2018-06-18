@@ -16,10 +16,8 @@ I am a Ph.D. student at [RiseLab](https://rise.cs.berkeley.edu/) and [Math Depar
 
 Research
 ======
-1. Hessian-based Analysis of Large Batch Training and Robustness to Adversaries.
-
-Z Yao, A Gholami, Q Lei, K Keutzer, MW Mahoney
-
+1. Hessian-based Analysis of Large Batch Training and Robustness to Adversaries.\s\s 
+Z Yao, A Gholami, Q Lei, K Keutzer, MW Mahoney\s\s
 arXiv preprint [arXiv](https://arxiv.org/pdf/1802.08241)
 2. Inexact non-convex Newton-type methods.
 
@@ -48,3 +46,11 @@ arXiv preprint [arXiv](https://arxiv.org/abs/1510.05239)
 
 Inverse Problems 32 (7), 075006
 
+<li>
+                        <font color="#0000FF">Scalable Kernel K-Means Clustering with Nystrom Approximation: Relative-Error Bounds</font>.<br>
+                        <b>Shusen Wang</b>, Alex Gittens, and Michael W. Mahoney.<br>
+                        Accepted by <em>Journal of Machine Learning Research</em> (<b>JMLR</b>), conditioned on minor revisions.<br>
+                        <a href="https://arxiv.org/abs/1706.02803">arXiv:1706.02803</a>.
+                        <br>
+                        <br>
+                    </li>
