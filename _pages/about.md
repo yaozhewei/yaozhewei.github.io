@@ -38,5 +38,5 @@ Inverse Problems 32 (7), 075006
 Teaching
 ======
 * [Stat 89A](https://www.stat.berkeley.edu/~mmahoney/s18-lads/), Spring 2018
-* [Math 16A](https://math.berkeley.edu/~apaulin/16B_001%20\(Spring%202017\).html), Spring 2017
+* [Math 16A](https://math.berkeley.edu/~apaulin/16B_001%20(Spring%202017).html), Spring 2017
 * Math 16A, Fall 2016
