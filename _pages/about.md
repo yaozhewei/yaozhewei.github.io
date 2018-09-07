@@ -18,7 +18,8 @@ Research
 ======
 * <span style="color:blue">Hessian-based Analysis of Large Batch Training and Robustness to Adversaries</span>.\\
 Z Yao, A Gholami, Q Lei, K Keutzer, MW Mahoney\\
-arXiv preprint [arXiv](https://arxiv.org/pdf/1802.08241)
+arXiv preprint [arXiv](https://arxiv.org/pdf/1802.08241)\\
+Accepted for publication, Proc. NIPS 2018.
 * <span style="color:blue">Inexact non-convex Newton-type methods</span>.\\
 Z Yao, P Xu, F Roosta-Khorasani, MW Mahoney\\
 arXiv preprint [arXiv](https://arxiv.org/pdf/1802.06925.pdf)
