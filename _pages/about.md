@@ -16,6 +16,9 @@ I am a Ph.D. student in the [RISELab](https://rise.cs.berkeley.edu/) ([former AM
 
 Research
 ======
+* <span style="color:blue">Large batch size training of neural networks with adversarial training and second-order information</span>.\\
+Z Yao, A Gholami, K Keutzer, MW Mahoney\\
+arXiv preprint [arXiv](https://arxiv.org/abs/1810.01021)\\
 * <span style="color:blue">Hessian-based Analysis of Large Batch Training and Robustness to Adversaries</span>.\\
 Z Yao, A Gholami, Q Lei, K Keutzer, MW Mahoney\\
 arXiv preprint [arXiv](https://arxiv.org/pdf/1802.08241)\\
