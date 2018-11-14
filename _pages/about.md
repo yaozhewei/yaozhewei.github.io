@@ -16,8 +16,11 @@ I am a Ph.D. student in the [RISELab](https://rise.cs.berkeley.edu/) ([former AM
 
 Research
 ======
+* <span style="color:blue">Weight Re-Initialization through Cyclical Batch Scheduling</span>.\\
+N Mu, Z Yao, A Gholami, K Keutzer, MW Mahoney\\
+Accepted for publication, Proc. MLSYS Workshop at NIPS 2018
 * <span style="color:blue">On the Computational Inefficiency of Large Batch Sizes for Stochastic Gradient Descent</span>.\\
-N Golmant, N Vemuri, Z Yao, V Feinberg, A Gholami, K Rothauge, M Mahoney, J Gonzalez\\
+N Golmant, N Vemuri, Z Yao, V Feinberg, A Gholami, K Rothauge, MW Mahoney, J Gonzalez\\
 under review
 * <span style="color:blue">Large batch size training of neural networks with adversarial training and second-order information</span>.\\
 Z Yao, A Gholami, K Keutzer, MW Mahoney\\
