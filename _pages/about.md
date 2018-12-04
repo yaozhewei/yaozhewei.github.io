@@ -16,12 +16,18 @@ I am a Ph.D. student in the [RISELab](https://rise.cs.berkeley.edu/) ([former AM
 
 Research
 ======
+* <span style="color:blue">JumpReLU: A Retrofit Defense Strategy for Adversarial Attacks</span>.\\
+NB Erichson, Z Yao, MW Mahoney\\
+Under review
+* <span style="color:blue">Trust Region Based Adversarial Attack on Neural Networks</span>.\\
+Z Yao, A Gholami, P Xu, K Keutzer, MW Mahoney\\
+Under review
 * <span style="color:blue">Weight Re-Initialization through Cyclical Batch Scheduling</span>.\\
 N Mu, Z Yao, A Gholami, K Keutzer, MW Mahoney\\
 Accepted for publication, Proc. MLSYS Workshop at NIPS 2018
 * <span style="color:blue">On the Computational Inefficiency of Large Batch Sizes for Stochastic Gradient Descent</span>.\\
 N Golmant, N Vemuri, Z Yao, V Feinberg, A Gholami, K Rothauge, MW Mahoney, J Gonzalez\\
-under review
+arXiv preprint [arXiv](https://arxiv.org/abs/1811.12941)
 * <span style="color:blue">Large batch size training of neural networks with adversarial training and second-order information</span>.\\
 Z Yao, A Gholami, K Keutzer, MW Mahoney\\
 arXiv preprint [arXiv](https://arxiv.org/abs/1810.01021)
