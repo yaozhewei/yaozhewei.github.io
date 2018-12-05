@@ -22,8 +22,9 @@ Under review
 * <span style="color:blue">Trust Region Based Adversarial Attack on Neural Networks</span>.\\
 Z Yao, A Gholami, P Xu, K Keutzer, MW Mahoney\\
 Under review
-* <span style="color:blue">Weight Re-Initialization through Cyclical Batch Scheduling</span>.\\
+* <span style="color:blue">Parameter Re-Initialization through Cyclical Batch Scheduling</span>.\\
 N Mu, Z Yao, A Gholami, K Keutzer, MW Mahoney\\
+arXiv preprint [arXiv](https://arxiv.org/abs/1812.01216)\\
 Accepted for publication, Proc. MLSYS Workshop at NIPS 2018
 * <span style="color:blue">On the Computational Inefficiency of Large Batch Sizes for Stochastic Gradient Descent</span>.\\
 N Golmant, N Vemuri, Z Yao, V Feinberg, A Gholami, K Rothauge, MW Mahoney, J Gonzalez\\
