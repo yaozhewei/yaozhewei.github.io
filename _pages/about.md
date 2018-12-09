@@ -14,8 +14,9 @@ About Me
 ======
 I am a Ph.D. student in the [RISELab](https://rise.cs.berkeley.edu/) ([former AMPLab](https://amplab.cs.berkeley.edu)), [BDD](https://deepdrive.berkeley.edu/) and [Math Department](https://math.berkeley.edu/) at University of California at Berkeley. I am advised by [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/). My research interest lies in computing statistics, optimization and machine learning. Currently, I am interested in leveraging tools from randomized linear algebra to provide efficient and scalable solutions for large-scale optimization and learning problems. I am also working on the theory and application of deep learning. Before joining UC Berkeley, I recieved my B.S. in Math from [Zhiyuan Honor College](http://zhiyuan.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). [CV](http://yaozhewei.github.io/files/CV.pdf)
 
-Research
+Publications
 ======
+### Papers
 * <span style="color:blue">JumpReLU: A Retrofit Defense Strategy for Adversarial Attacks</span>.\\
 NB Erichson, Z Yao, MW Mahoney\\
 Under review
@@ -51,6 +52,11 @@ Journal of Computational Physics 332, 492-503
 Z Yao, Z Hu, J Li\\
 arXiv preprint [arXiv](https://arxiv.org/abs/1510.05239)\\
 Inverse Problems 32 (7), 075006
+
+###Workshops
+* <span style="color:blue">An Empirical Exploration of Gradient Correlations in Deep Learning</span>.\\
+D Rothchild, R Fox, N Golmant, J Gonzalez, MW Mahoney, K Rothauge, I Stoica and Z Yao\\
+Integration of Deep Learning Theories, NeurIPS 2018
 
 Teaching
 ======
