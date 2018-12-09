@@ -54,7 +54,7 @@ Z Yao, Z Hu, J Li\\
 arXiv preprint [arXiv](https://arxiv.org/abs/1510.05239)\\
 Inverse Problems 32 (7), 075006
 
-###Workshops
+### Workshops
 * <span style="color:blue">An Empirical Exploration of Gradient Correlations in Deep Learning</span>.\\
 D Rothchild, R Fox, N Golmant, J Gonzalez, MW Mahoney, K Rothauge, I Stoica and Z Yao\\
 Integration of Deep Learning Theories, NeurIPS 2018
