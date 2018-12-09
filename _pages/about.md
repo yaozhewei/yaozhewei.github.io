@@ -16,6 +16,7 @@ I am a Ph.D. student in the [RISELab](https://rise.cs.berkeley.edu/) ([former AM
 
 Publications
 ======
+
 ### Papers
 * <span style="color:blue">JumpReLU: A Retrofit Defense Strategy for Adversarial Attacks</span>.\\
 NB Erichson, Z Yao, MW Mahoney\\
