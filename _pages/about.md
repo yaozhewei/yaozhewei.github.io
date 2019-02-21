@@ -18,6 +18,9 @@ Publications
 ======
 
 ### Papers
+* <span style="color:blue">Shallow Learning for Fluid Flow Reconstruction with Limited Sensors and Limited Data</span>.\\
+NB Erichson, L Mathelin, Z Yao, SL Brunton, MW Mahoney, JN Kutz\\
+arXiv preprint [arXiv](https://arxiv.org/abs/1902.07358)
 * <span style="color:blue">JumpReLU: A Retrofit Defense Strategy for Adversarial Attacks</span>.\\
 NB Erichson, Z Yao, MW Mahoney\\
 Under review
