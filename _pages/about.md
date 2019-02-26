@@ -26,7 +26,8 @@ NB Erichson, Z Yao, MW Mahoney\\
 Under review
 * <span style="color:blue">Trust Region Based Adversarial Attack on Neural Networks</span>.\\
 Z Yao, A Gholami, P Xu, K Keutzer, MW Mahoney\\
-arXiv preprint [arXiv](https://arxiv.org/abs/1812.06371)
+arXiv preprint [arXiv](https://arxiv.org/abs/1812.06371)\\
+Accepted for publication, Proc. CVPR 2019.
 * <span style="color:blue">Parameter Re-Initialization through Cyclical Batch Scheduling</span>.\\
 N Mu, Z Yao, A Gholami, K Keutzer, MW Mahoney\\
 arXiv preprint [arXiv](https://arxiv.org/abs/1812.01216)\\
