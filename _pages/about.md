@@ -18,6 +18,9 @@ Publications
 ======
 
 ### Papers
+* <span style="color:blue">Inefficiency of K-FAC for Large Batch Size Training</span>.\\
+L Ma, G Montague, J Ye, Z Yao, A Gholami, K Keutzer, MW Mahoney\\
+arXiv preprint [arXiv](https://arxiv.org/abs/1903.06237)
 * <span style="color:blue">Shallow Learning for Fluid Flow Reconstruction with Limited Sensors and Limited Data</span>.\\
 NB Erichson, L Mathelin, Z Yao, SL Brunton, MW Mahoney, JN Kutz\\
 arXiv preprint [arXiv](https://arxiv.org/abs/1902.07358)
