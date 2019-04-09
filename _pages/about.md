@@ -26,7 +26,7 @@ NB Erichson, L Mathelin, Z Yao, SL Brunton, MW Mahoney, JN Kutz\\
 arXiv preprint [arXiv](https://arxiv.org/abs/1902.07358)
 * <span style="color:blue">JumpReLU: A Retrofit Defense Strategy for Adversarial Attacks</span>.\\
 NB Erichson, Z Yao, MW Mahoney\\
-Under review
+arXiv preprint [arXiv](https://arxiv.org/abs/1904.03750)
 * <span style="color:blue">Trust Region Based Adversarial Attack on Neural Networks</span>.\\
 Z Yao, A Gholami, P Xu, K Keutzer, MW Mahoney\\
 arXiv preprint [arXiv](https://arxiv.org/abs/1812.06371)\\
