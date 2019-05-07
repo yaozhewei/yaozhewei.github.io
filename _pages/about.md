@@ -18,6 +18,9 @@ Publications
 ======
 
 ### Papers
+* <span style="color:blue">HAWQ: Hessian AWare Quantization of Neural Networks with Mixed-Precision</span>.\\
+Z Dong, Z Yao, A Gholami, MW Mahoney, K Keutzer\\
+[PDF](http://yaozhewei.github.io/files/2019_HAWQ.pdf)
 * <span style="color:blue">Inefficiency of K-FAC for Large Batch Size Training</span>.\\
 L Ma, G Montague, J Ye, Z Yao, A Gholami, K Keutzer, MW Mahoney\\
 arXiv preprint [arXiv](https://arxiv.org/abs/1903.06237)
