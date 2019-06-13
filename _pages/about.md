@@ -18,55 +18,61 @@ Publications
 ======
 
 ### Papers
+* <span style="color:blue">ANODEV2: A Coupled Neural ODE Evolution Framework</span>.\\
+T. Zhang, Z. Yao, A. Gholami, K. Keutzer, J. Gonzalez, G. Biros, and M. W. Mahoney\\
+arXiv preprint [arxiv](https://arxiv.org/pdf/1906.04596.pdf)
+* <span style="color:blue">Residual Networks as Nonlinear Systems: Stability Analysis using Linearization</span>.\\
+K. Rothauge, Z. Yao, Z. Hu, and M. W. Mahoney\\
+arXiv preprint [arxiv](https://arxiv.org/pdf/1905.13386.pdf)
 * <span style="color:blue">HAWQ: Hessian AWare Quantization of Neural Networks with Mixed-Precision</span>.\\
-Z Dong, Z Yao, A Gholami, MW Mahoney, K Keutzer\\
+Z. Dong, Z. Yao, A. Gholami, M. W. Mahoney, K. Keutzer\\
 arXiv preprint [arxiv](https://arxiv.org/pdf/1905.03696.pdf)
 * <span style="color:blue">Inefficiency of K-FAC for Large Batch Size Training</span>.\\
-L Ma, G Montague, J Ye, Z Yao, A Gholami, K Keutzer, MW Mahoney\\
-arXiv preprint [arXiv](https://arxiv.org/abs/1903.06237)
+L. Ma, G. Montague, J. Ye, Z. Yao, A. Gholami, K. Keutzer, M. W. Mahoney\\
+arXiv preprint [arXiv](https://arxiv.org/pdf/1903.06237.pdf)
 * <span style="color:blue">Shallow Learning for Fluid Flow Reconstruction with Limited Sensors and Limited Data</span>.\\
-NB Erichson, L Mathelin, Z Yao, SL Brunton, MW Mahoney, JN Kutz\\
-arXiv preprint [arXiv](https://arxiv.org/abs/1902.07358)
+N. B. Erichson, L. Mathelin, Z. Yao, S. L. Brunton, M. W. Mahoney, J. N. Kutz\\
+arXiv preprint [arXiv](https://arxiv.org/pdf/1902.07358.pdf)
 * <span style="color:blue">JumpReLU: A Retrofit Defense Strategy for Adversarial Attacks</span>.\\
-NB Erichson, Z Yao, MW Mahoney\\
-arXiv preprint [arXiv](https://arxiv.org/abs/1904.03750)
+N. B. Erichson, Z. Yao, M. W. Mahoney\\
+arXiv preprint [arXiv](https://arxiv.org/pdf/1904.03750.pdf)
 * <span style="color:blue">Trust Region Based Adversarial Attack on Neural Networks</span>.\\
-Z Yao, A Gholami, P Xu, K Keutzer, MW Mahoney\\
-arXiv preprint [arXiv](https://arxiv.org/abs/1812.06371)\\
+Z. Yao, A. Gholami, P. Xu, K. Keutzer, M. W. Mahoney\\
+arXiv preprint [arXiv](https://arxiv.org/pdf/1812.06371.pdf)\\
 Accepted for publication, Proc. CVPR 2019.
 * <span style="color:blue">Parameter Re-Initialization through Cyclical Batch Scheduling</span>.\\
-N Mu, Z Yao, A Gholami, K Keutzer, MW Mahoney\\
-arXiv preprint [arXiv](https://arxiv.org/abs/1812.01216)\\
+N. Mu, Z. Yao, A. Gholami, K. Keutzer, M. W. Mahoney\\
+arXiv preprint [arXiv](https://arxiv.org/pdf/1812.01216.pdf)\\
 Accepted for publication, Proc. MLSYS Workshop at NIPS 2018
 * <span style="color:blue">On the Computational Inefficiency of Large Batch Sizes for Stochastic Gradient Descent</span>.\\
-N Golmant, N Vemuri, Z Yao, V Feinberg, A Gholami, K Rothauge, MW Mahoney, J Gonzalez\\
-arXiv preprint [arXiv](https://arxiv.org/abs/1811.12941)
+N. Golmant, N. Vemuri, Z. Yao, V. Feinberg, A. Gholami, K. Rothauge, M. W. Mahoney, J. Gonzalez\\
+arXiv preprint [arXiv](https://arxiv.org/pdf/1811.12941.pdf)
 * <span style="color:blue">Large batch size training of neural networks with adversarial training and second-order information</span>.\\
-Z Yao, A Gholami, K Keutzer, MW Mahoney\\
-arXiv preprint [arXiv](https://arxiv.org/abs/1810.01021)
+Z. Yao, A. Gholami, K. Keutzer, M. W. Mahoney\\
+arXiv preprint [arXiv](https://arxiv.org/pdf/1810.01021.pdf)
 * <span style="color:blue">Hessian-based Analysis of Large Batch Training and Robustness to Adversaries</span>.\\
-Z Yao, A Gholami, Q Lei, K Keutzer, MW Mahoney\\
-arXiv preprint [arXiv](https://arxiv.org/pdf/1802.08241)\\
+Z. Yao, A. Gholami, Q. Lei, K. Keutzer, M. W. Mahoney\\
+arXiv preprint [arXiv](https://arxiv.org/pdf/1802.08241.pdf)\\
 Accepted for publication, Proc. NIPS 2018.
 * <span style="color:blue">Inexact non-convex Newton-type methods</span>.\\
-Z Yao, P Xu, F Roosta-Khorasani, MW Mahoney\\
+Z. Yao, P. Xu, F. Roosta-Khorasani, M. W. Mahoney\\
 arXiv preprint [arXiv](https://arxiv.org/pdf/1802.06925.pdf)
 * <span style="color:blue">A hybrid adaptive MCMC algorithm in function spaces</span>.\\
-Q Zhou, Z Hu, Z Yao, J Li\\
-arXiv preprint [arXiv](https://arxiv.org/abs/1607.01458)\\
+Q. Zhou, Z. Hu, Z. Yao, J. Li\\
+arXiv preprint [arXiv](https://arxiv.org/pdf/1607.01458.pdf)\\
 SIAM/ASA Journal on Uncertainty Quantification 5 (1), 621-639
 * <span style="color:blue">On an adaptive preconditioned Crank–Nicolson MCMC algorithm for infinite dimensional Bayesian inference</span>.\\
-Z Hu, Z Yao, J Li\\
-arXiv preprint [arXiv](https://arxiv.org/abs/1511.05838)\\
+Z. Hu, Z. Yao, J. Li\\
+arXiv preprint [arXiv](https://arxiv.org/pdf/1511.05838.pdf)\\
 Journal of Computational Physics 332, 492-503
 * <span style="color:blue"> A TV-Gaussian prior for infinite-dimensional Bayesian inverse problems and its numerical implementation</span>.\\
-Z Yao, Z Hu, J Li\\
-arXiv preprint [arXiv](https://arxiv.org/abs/1510.05239)\\
+Z. Yao, Z. Hu, J. Li\\
+arXiv preprint [arXiv](https://arxiv.org/pdf/1510.05239.pdf)\\
 Inverse Problems 32 (7), 075006
 
 ### Workshops
 * <span style="color:blue">An Empirical Exploration of Gradient Correlations in Deep Learning</span>.\\
-D Rothchild, R Fox, N Golmant, J Gonzalez, MW Mahoney, K Rothauge, I Stoica and Z Yao\\
+D. Rothchild, R. Fox, N. Golmant, J. Gonzalez, M. W. Mahoney, K. Rothauge, I. Stoica and Z. Yao\\
 Integration of Deep Learning Theories, NeurIPS 2018
 
 Teaching
