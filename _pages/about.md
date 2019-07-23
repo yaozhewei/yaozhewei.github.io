@@ -26,7 +26,8 @@ K. Rothauge, Z. Yao, Z. Hu, and M. W. Mahoney\\
 arXiv preprint [arxiv](https://arxiv.org/pdf/1905.13386.pdf)
 * <span style="color:blue">HAWQ: Hessian AWare Quantization of Neural Networks with Mixed-Precision</span>.\\
 Z. Dong, Z. Yao, A. Gholami, M. W. Mahoney, K. Keutzer\\
-arXiv preprint [arxiv](https://arxiv.org/pdf/1905.03696.pdf)
+arXiv preprint [arxiv](https://arxiv.org/pdf/1905.03696.pdf)\\
+Accepted for publication, Proc. ICCV 2019.
 * <span style="color:blue">Inefficiency of K-FAC for Large Batch Size Training</span>.\\
 L. Ma, G. Montague, J. Ye, Z. Yao, A. Gholami, K. Keutzer, M. W. Mahoney\\
 arXiv preprint [arXiv](https://arxiv.org/pdf/1903.06237.pdf)
