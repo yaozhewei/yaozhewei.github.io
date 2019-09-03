@@ -20,7 +20,7 @@ Publications
 ### Papers
 * <span style="color:blue">ANODEV2: A Coupled Neural ODE Evolution Framework</span>.\\
 T. Zhang, Z. Yao, A. Gholami, K. Keutzer, J. Gonzalez, G. Biros, and M. W. Mahoney\\
-arXiv preprint [arxiv](https://arxiv.org/pdf/1906.04596.pdf)
+arXiv preprint [arxiv](https://arxiv.org/pdf/1906.04596.pdf)\\
 Accepted for publication, Proc. NeurIPS 2019.
 * <span style="color:blue">Residual Networks as Nonlinear Systems: Stability Analysis using Linearization</span>.\\
 K. Rothauge, Z. Yao, Z. Hu, and M. W. Mahoney\\
