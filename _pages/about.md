@@ -18,6 +18,9 @@ Publications
 ======
 
 ### Papers
+* <span style="color:blue">Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT</span>.\\
+S. Shen, Z. Dong, J. Ye, L. Ma, \textbf{Z. Yao}, A. Gholami, M. W. Mahoney, K. Keutzer\\
+arXiv preprint [arxiv](https://arxiv.org/pdf/1909.05840.pdf)\\
 * <span style="color:blue">ANODEV2: A Coupled Neural ODE Evolution Framework</span>.\\
 T. Zhang, Z. Yao, A. Gholami, K. Keutzer, J. Gonzalez, G. Biros, and M. W. Mahoney\\
 arXiv preprint [arxiv](https://arxiv.org/pdf/1906.04596.pdf)\\
