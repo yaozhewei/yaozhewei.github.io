@@ -80,6 +80,19 @@ Inverse Problems 32 (7), 075006
 D. Rothchild, R. Fox, N. Golmant, J. Gonzalez, M. W. Mahoney, K. Rothauge, I. Stoica and Z. Yao\\
 Integration of Deep Learning Theories, NeurIPS 2018
 
+Talks
+======
+* DIMACS Workshop on Randomized Numerical Linear Algebra, Statistics, and Optimization ([DIMACS](http://dimacs.rutgers.edu/programs/sf/sf-optimization/))\\
+Rutgers University, New Jersey, USA (September, 2019)
+* Computer Panel ([IJCAI](https://www.ijcai19.org/)) \\
+Macau, China (August, 2019)
+* Randomized Algorithms for Optimization Problems in Statistics ([JSM](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/ActivityDetails.cfm?sessionid=217975))\\
+Colorado Convention Center, Denver, Colorado, USA (July, 2019)
+* Berkeley Scientific Computing and Matrix Computations Seminar ([Link](https://math.berkeley.edu/~mgu/LAPACKSeminar.htm))\\
+Berkeley, CA, USA (November, 2018)
+* Berkeley Real-time Intelligent Secure Explanaible Systems Lab Sponsor Retreat ([RiseLab](https://rise.cs.berkeley.edu/))\\
+Tahoe Lake, CA, USA (August, 2018)
+
 Teaching
 ======
 * [Stat 89A](https://www.stat.berkeley.edu/~mmahoney/s18-lads/), Spring 2018
