@@ -84,7 +84,7 @@ Talks
 ======
 * DIMACS Workshop on Randomized Numerical Linear Algebra, Statistics, and Optimization ([DIMACS](http://dimacs.rutgers.edu/programs/sf/sf-optimization/))\\
 Rutgers University, New Jersey, USA (September, 2019)
-* Computer Panel ([IJCAI](https://www.ijcai19.org/)) \\
+* Computer Vision Panel ([IJCAI](https://www.ijcai19.org/)) \\
 Macau, China (August, 2019)
 * Randomized Algorithms for Optimization Problems in Statistics ([JSM](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/ActivityDetails.cfm?sessionid=217975))\\
 Colorado Convention Center, Denver, Colorado, USA (July, 2019)
