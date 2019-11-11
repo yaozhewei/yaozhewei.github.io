@@ -20,7 +20,8 @@ Publications
 ### Papers
 * <span style="color:blue">Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT</span>.\\
 S. Shen, Z. Dong, J. Ye, L. Ma, Z. Yao, A. Gholami, M. W. Mahoney, K. Keutzer\\
-arXiv preprint [arxiv](https://arxiv.org/pdf/1909.05840.pdf)
+arXiv preprint [arxiv](https://arxiv.org/pdf/1909.05840.pdf)\\
+Accepted for publication, Proc. AAAI 2020.
 * <span style="color:blue">ANODEV2: A Coupled Neural ODE Evolution Framework</span>.\\
 T. Zhang, Z. Yao, A. Gholami, K. Keutzer, J. Gonzalez, G. Biros, and M. W. Mahoney\\
 arXiv preprint [arxiv](https://arxiv.org/pdf/1906.04596.pdf)\\
@@ -34,7 +35,8 @@ arXiv preprint [arxiv](https://arxiv.org/pdf/1905.03696.pdf)\\
 Accepted for publication, Proc. ICCV 2019.
 * <span style="color:blue">Inefficiency of K-FAC for Large Batch Size Training</span>.\\
 L. Ma, G. Montague, J. Ye, Z. Yao, A. Gholami, K. Keutzer, M. W. Mahoney\\
-arXiv preprint [arXiv](https://arxiv.org/pdf/1903.06237.pdf)
+arXiv preprint [arXiv](https://arxiv.org/pdf/1903.06237.pdf)\\
+Accepted for publication, Proc. AAAI 2020.
 * <span style="color:blue">Shallow Learning for Fluid Flow Reconstruction with Limited Sensors and Limited Data</span>.\\
 N. B. Erichson, L. Mathelin, Z. Yao, S. L. Brunton, M. W. Mahoney, J. N. Kutz\\
 arXiv preprint [arXiv](https://arxiv.org/pdf/1902.07358.pdf)
