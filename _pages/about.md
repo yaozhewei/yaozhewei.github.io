@@ -34,7 +34,7 @@ Accepted for publication, Proc. NeurIPS 2019.
 K. Rothauge, Z. Yao, Z. Hu, and M. W. Mahoney\\
 arXiv preprint [arxiv](https://arxiv.org/pdf/1905.13386.pdf)
 * <span style="color:blue">HAWQ: Hessian AWare Quantization of Neural Networks with Mixed-Precision</span>.\\
-Z. Dong, Z. Yao, A. Gholami, M. W. Mahoney, K. Keutzer\\
+Z. Dong<sup>*</sup>, Z. Yao<sup>*</sup>, A. Gholami<sup>*</sup>, M. W. Mahoney, K. Keutzer\\
 arXiv preprint [arxiv](https://arxiv.org/pdf/1905.03696.pdf)\\
 Accepted for publication, Proc. ICCV 2019.
 * <span style="color:blue">Inefficiency of K-FAC for Large Batch Size Training</span>.\\
@@ -45,24 +45,24 @@ Accepted for publication, Proc. AAAI 2020.
 N. B. Erichson, L. Mathelin, Z. Yao, S. L. Brunton, M. W. Mahoney, J. N. Kutz\\
 arXiv preprint [arXiv](https://arxiv.org/pdf/1902.07358.pdf)
 * <span style="color:blue">JumpReLU: A Retrofit Defense Strategy for Adversarial Attacks</span>.\\
-N. B. Erichson, Z. Yao, M. W. Mahoney\\
+N. B. Erichson<sup>*</sup>, Z. Yao<sup>*</sup>, M. W. Mahoney\\
 arXiv preprint [arXiv](https://arxiv.org/pdf/1904.03750.pdf)
 * <span style="color:blue">Trust Region Based Adversarial Attack on Neural Networks</span>.\\
 Z. Yao, A. Gholami, P. Xu, K. Keutzer, M. W. Mahoney\\
 arXiv preprint [arXiv](https://arxiv.org/pdf/1812.06371.pdf)\\
 Accepted for publication, Proc. CVPR 2019.
 * <span style="color:blue">Parameter Re-Initialization through Cyclical Batch Scheduling</span>.\\
-N. Mu, Z. Yao, A. Gholami, K. Keutzer, M. W. Mahoney\\
+N. Mu<sup>*</sup>, Z. Yao<sup>*</sup>, A. Gholami, K. Keutzer, M. W. Mahoney\\
 arXiv preprint [arXiv](https://arxiv.org/pdf/1812.01216.pdf)\\
 Accepted for publication, Proc. MLSYS Workshop at NIPS 2018
 * <span style="color:blue">On the Computational Inefficiency of Large Batch Sizes for Stochastic Gradient Descent</span>.\\
 N. Golmant, N. Vemuri, Z. Yao, V. Feinberg, A. Gholami, K. Rothauge, M. W. Mahoney, J. Gonzalez\\
 arXiv preprint [arXiv](https://arxiv.org/pdf/1811.12941.pdf)
 * <span style="color:blue">Large batch size training of neural networks with adversarial training and second-order information</span>.\\
-Z. Yao, A. Gholami, K. Keutzer, M. W. Mahoney\\
+Z. Yao<sup>*</sup>, A. Gholami<sup>*</sup>, K. Keutzer, M. W. Mahoney\\
 arXiv preprint [arXiv](https://arxiv.org/pdf/1810.01021.pdf)
 * <span style="color:blue">Hessian-based Analysis of Large Batch Training and Robustness to Adversaries</span>.\\
-Z. Yao, A. Gholami, Q. Lei, K. Keutzer, M. W. Mahoney\\
+Z. Yao<sup>*</sup>, A. Gholami<sup>*</sup>, Q. Lei, K. Keutzer, M. W. Mahoney\\
 arXiv preprint [arXiv](https://arxiv.org/pdf/1802.08241.pdf)\\
 Accepted for publication, Proc. NIPS 2018.
 * <span style="color:blue">Inexact non-convex Newton-type methods</span>.\\
