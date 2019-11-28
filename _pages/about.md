@@ -27,7 +27,7 @@ S. Shen, Z. Dong, J. Ye, L. Ma, Z. Yao, A. Gholami, M. W. Mahoney, K. Keutzer\\
 arXiv preprint [arxiv](https://arxiv.org/pdf/1909.05840.pdf)\\
 Accepted for publication, Proc. AAAI 2020.
 * <span style="color:blue">ANODEV2: A Coupled Neural ODE Evolution Framework</span>.\\
-T. Zhang, Z. Yao, A. Gholami, K. Keutzer, J. Gonzalez, G. Biros, and M. W. Mahoney\\
+T. Zhang<sup>*</sup>, Z. Yao<sup>*</sup>, A. Gholami<sup>*</sup>, K. Keutzer, J. Gonzalez, G. Biros, and M. W. Mahoney\\
 arXiv preprint [arxiv](https://arxiv.org/pdf/1906.04596.pdf)\\
 Accepted for publication, Proc. NeurIPS 2019.
 * <span style="color:blue">Residual Networks as Nonlinear Systems: Stability Analysis using Linearization</span>.\\
