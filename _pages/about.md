@@ -18,7 +18,7 @@ Publications
 ======
 
 ### Papers
-* <span style="color:blue">HAWQ-V2: Hessian Aware trace-Weighted Quantization of Neural Networks</span>.\\
+* <span style="color:blue">PyHessian: Neural Networks Through the Lens of the Hessian</span>.\\
 Z. Yao<sup>*</sup>, A. Gholami<sup>*</sup>, K. Keutzer, M. W. Mahoney\\
 [arXiv](https://arxiv.org/pdf/1912.07145.pdf), [code](https://github.com/amirgholami/PyHessian)
 * <span style="color:blue">HAWQ-V2: Hessian Aware trace-Weighted Quantization of Neural Networks</span>.\\
@@ -91,6 +91,8 @@ Integration of Deep Learning Theories, NeurIPS 2018
 
 Talks
 ======
+* NeurIPS'19 Workshop on Beyond First-Order Optimization Methods in Machine Learning ([Beyond](https://sites.google.com/site/optneurips19/))\\
+Vancouver, Canada (December, 2019)
 * DIMACS Workshop on Randomized Numerical Linear Algebra, Statistics, and Optimization ([DIMACS](http://dimacs.rutgers.edu/programs/sf/sf-optimization/))\\
 Rutgers University, New Jersey, USA (September, 2019)
 * Computer Vision Panel ([IJCAI](https://www.ijcai19.org/)) \\
