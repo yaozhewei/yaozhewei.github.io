@@ -19,66 +19,69 @@ Publications
 
 ### Papers
 * <span style="color:blue">HAWQ-V2: Hessian Aware trace-Weighted Quantization of Neural Networks</span>.\\
+Z. Yao<sup>*</sup>, A. Gholami<sup>*</sup>, K. Keutzer, M. W. Mahoney\\
+[arxiv](https://arxiv.org/pdf/1912.07145.pdf) [code](https://github.com/amirgholami/PyHessian)\\
+* <span style="color:blue">HAWQ-V2: Hessian Aware trace-Weighted Quantization of Neural Networks</span>.\\
 Z. Dong, Z. Yao, Y. Cai, D. Arfeen, A. Gholami, M. W. Mahoney, K. Keutzer\\
-arXiv preprint [arxiv](https://arxiv.org/pdf/1911.03852.pdf)\\
+[arxiv](https://arxiv.org/pdf/1911.03852.pdf)\\
 A short version was accepted as a spotlight paper at NuerIPS'19 workshop on Beyond First-Order Optimization Methods in Machine Learning.
 * <span style="color:blue">Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT</span>.\\
 S. Shen, Z. Dong, J. Ye, L. Ma, Z. Yao, A. Gholami, M. W. Mahoney, K. Keutzer\\
-arXiv preprint [arxiv](https://arxiv.org/pdf/1909.05840.pdf)\\
+[arxiv](https://arxiv.org/pdf/1909.05840.pdf)\\
 Accepted for publication, Proc. AAAI 2020.
 * <span style="color:blue">ANODEV2: A Coupled Neural ODE Evolution Framework</span>.\\
 T. Zhang<sup>*</sup>, Z. Yao<sup>*</sup>, A. Gholami<sup>*</sup>, K. Keutzer, J. Gonzalez, G. Biros, and M. W. Mahoney\\
-arXiv preprint [arxiv](https://arxiv.org/pdf/1906.04596.pdf)\\
+[arxiv](https://arxiv.org/pdf/1906.04596.pdf) [code](https://github.com/amirgholami/anode)\\
 Accepted for publication, Proc. NeurIPS 2019.
 * <span style="color:blue">Residual Networks as Nonlinear Systems: Stability Analysis using Linearization</span>.\\
 K. Rothauge, Z. Yao, Z. Hu, and M. W. Mahoney\\
-arXiv preprint [arxiv](https://arxiv.org/pdf/1905.13386.pdf)
+[arxiv](https://arxiv.org/pdf/1905.13386.pdf)
 * <span style="color:blue">HAWQ: Hessian AWare Quantization of Neural Networks with Mixed-Precision</span>.\\
 Z. Dong<sup>*</sup>, Z. Yao<sup>*</sup>, A. Gholami<sup>*</sup>, M. W. Mahoney, K. Keutzer\\
-arXiv preprint [arxiv](https://arxiv.org/pdf/1905.03696.pdf)\\
+[arxiv](https://arxiv.org/pdf/1905.03696.pdf)\\
 Accepted for publication, Proc. ICCV 2019.
 * <span style="color:blue">Inefficiency of K-FAC for Large Batch Size Training</span>.\\
 L. Ma, G. Montague, J. Ye, Z. Yao, A. Gholami, K. Keutzer, M. W. Mahoney\\
-arXiv preprint [arXiv](https://arxiv.org/pdf/1903.06237.pdf)\\
+[arXiv](https://arxiv.org/pdf/1903.06237.pdf)\\
 Accepted for publication, Proc. AAAI 2020.
 * <span style="color:blue">Shallow Learning for Fluid Flow Reconstruction with Limited Sensors and Limited Data</span>.\\
 N. B. Erichson, L. Mathelin, Z. Yao, S. L. Brunton, M. W. Mahoney, J. N. Kutz\\
-arXiv preprint [arXiv](https://arxiv.org/pdf/1902.07358.pdf)
+[arXiv](https://arxiv.org/pdf/1902.07358.pdf)
 * <span style="color:blue">JumpReLU: A Retrofit Defense Strategy for Adversarial Attacks</span>.\\
 N. B. Erichson<sup>*</sup>, Z. Yao<sup>*</sup>, M. W. Mahoney\\
-arXiv preprint [arXiv](https://arxiv.org/pdf/1904.03750.pdf)
+[arXiv](https://arxiv.org/pdf/1904.03750.pdf)
 * <span style="color:blue">Trust Region Based Adversarial Attack on Neural Networks</span>.\\
 Z. Yao, A. Gholami, P. Xu, K. Keutzer, M. W. Mahoney\\
-arXiv preprint [arXiv](https://arxiv.org/pdf/1812.06371.pdf)\\
+[arXiv](https://arxiv.org/pdf/1812.06371.pdf) [code](https://github.com/amirgholami/TRAttack)\\
 Accepted for publication, Proc. CVPR 2019.
 * <span style="color:blue">Parameter Re-Initialization through Cyclical Batch Scheduling</span>.\\
 N. Mu<sup>*</sup>, Z. Yao<sup>*</sup>, A. Gholami, K. Keutzer, M. W. Mahoney\\
-arXiv preprint [arXiv](https://arxiv.org/pdf/1812.01216.pdf)\\
+[arXiv](https://arxiv.org/pdf/1812.01216.pdf)\\
 Accepted for publication, Proc. MLSYS Workshop at NIPS 2018
 * <span style="color:blue">On the Computational Inefficiency of Large Batch Sizes for Stochastic Gradient Descent</span>.\\
 N. Golmant, N. Vemuri, Z. Yao, V. Feinberg, A. Gholami, K. Rothauge, M. W. Mahoney, J. Gonzalez\\
-arXiv preprint [arXiv](https://arxiv.org/pdf/1811.12941.pdf)
+[arXiv](https://arxiv.org/pdf/1811.12941.pdf)
 * <span style="color:blue">Large batch size training of neural networks with adversarial training and second-order information</span>.\\
 Z. Yao<sup>*</sup>, A. Gholami<sup>*</sup>, K. Keutzer, M. W. Mahoney\\
-arXiv preprint [arXiv](https://arxiv.org/pdf/1810.01021.pdf)
+[arXiv](https://arxiv.org/pdf/1810.01021.pdf) [code](https://github.com/amirgholami/HessianFlow)
 * <span style="color:blue">Hessian-based Analysis of Large Batch Training and Robustness to Adversaries</span>.\\
 Z. Yao<sup>*</sup>, A. Gholami<sup>*</sup>, Q. Lei, K. Keutzer, M. W. Mahoney\\
-arXiv preprint [arXiv](https://arxiv.org/pdf/1802.08241.pdf)\\
+[arXiv](https://arxiv.org/pdf/1802.08241.pdf) [code](https://github.com/amirgholami/HessianFlow)\\
 Accepted for publication, Proc. NIPS 2018.
 * <span style="color:blue">Inexact non-convex Newton-type methods</span>.\\
 Z. Yao, P. Xu, F. Roosta-Khorasani, M. W. Mahoney\\
-arXiv preprint [arXiv](https://arxiv.org/pdf/1802.06925.pdf)
+[arXiv](https://arxiv.org/pdf/1802.06925.pdf)
 * <span style="color:blue">A hybrid adaptive MCMC algorithm in function spaces</span>.\\
 Q. Zhou, Z. Hu, Z. Yao, J. Li\\
-arXiv preprint [arXiv](https://arxiv.org/pdf/1607.01458.pdf)\\
+[arXiv](https://arxiv.org/pdf/1607.01458.pdf)\\
 SIAM/ASA Journal on Uncertainty Quantification 5 (1), 621-639
 * <span style="color:blue">On an adaptive preconditioned Crank–Nicolson MCMC algorithm for infinite dimensional Bayesian inference</span>.\\
 Z. Hu, Z. Yao, J. Li\\
-arXiv preprint [arXiv](https://arxiv.org/pdf/1511.05838.pdf)\\
+[arXiv](https://arxiv.org/pdf/1511.05838.pdf)\\
 Journal of Computational Physics 332, 492-503
 * <span style="color:blue"> A TV-Gaussian prior for infinite-dimensional Bayesian inverse problems and its numerical implementation</span>.\\
 Z. Yao, Z. Hu, J. Li\\
-arXiv preprint [arXiv](https://arxiv.org/pdf/1510.05239.pdf)\\
+[arXiv](https://arxiv.org/pdf/1510.05239.pdf)\\
 Inverse Problems 32 (7), 075006
 
 ### Workshops
