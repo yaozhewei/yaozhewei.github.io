@@ -18,6 +18,9 @@ Publications
 ======
 
 ### Papers
+* <span style="color:blue">ZeroQ: A Novel Zero Shot Quantization Framework</span>.\\
+Y. Cai<sup>*</sup>, Z. Yao<sup>*</sup>, Z. Dong<sup>*</sup>, A. Gholami, M. W. Mahoney, and K. Keutzer\\
+[arXiv](https://arxiv.org/pdf/2001.00281.pdf), [code](https://github.com/amirgholami/ZeroQ)
 * <span style="color:blue">PyHessian: Neural Networks Through the Lens of the Hessian</span>.\\
 Z. Yao<sup>*</sup>, A. Gholami<sup>*</sup>, K. Keutzer, M. W. Mahoney\\
 [arXiv](https://arxiv.org/pdf/1912.07145.pdf), [code](https://github.com/amirgholami/PyHessian)
@@ -49,7 +52,8 @@ N. B. Erichson, L. Mathelin, Z. Yao, S. L. Brunton, M. W. Mahoney, J. N. Kutz\\
 [arXiv](https://arxiv.org/pdf/1902.07358.pdf)
 * <span style="color:blue">JumpReLU: A Retrofit Defense Strategy for Adversarial Attacks</span>.\\
 N. B. Erichson<sup>*</sup>, Z. Yao<sup>*</sup>, M. W. Mahoney\\
-[arXiv](https://arxiv.org/pdf/1904.03750.pdf)
+[arXiv](https://arxiv.org/pdf/1904.03750.pdf)\\
+Accepted for publication, Proc. ICPRAM 2020.
 * <span style="color:blue">Trust Region Based Adversarial Attack on Neural Networks</span>.\\
 Z. Yao, A. Gholami, P. Xu, K. Keutzer, M. W. Mahoney\\
 [arXiv](https://arxiv.org/pdf/1812.06371.pdf), [code](https://github.com/amirgholami/TRAttack)\\
