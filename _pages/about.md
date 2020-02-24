@@ -21,6 +21,7 @@ Publications
 * <span style="color:blue">ZeroQ: A Novel Zero Shot Quantization Framework</span>.\\
 Y. Cai<sup>*</sup>, Z. Yao<sup>*</sup>, Z. Dong<sup>*</sup>, A. Gholami, M. W. Mahoney, and K. Keutzer\\
 [arXiv](https://arxiv.org/pdf/2001.00281.pdf), [code](https://github.com/amirgholami/ZeroQ)
+Accepted for publication, Proc. CVPR 2020.
 * <span style="color:blue">PyHessian: Neural Networks Through the Lens of the Hessian</span>.\\
 Z. Yao<sup>*</sup>, A. Gholami<sup>*</sup>, K. Keutzer, M. W. Mahoney\\
 [arXiv](https://arxiv.org/pdf/1912.07145.pdf), [code](https://github.com/amirgholami/PyHessian)
