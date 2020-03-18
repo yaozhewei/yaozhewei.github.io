@@ -18,6 +18,9 @@ Publications
 ======
 
 ### Papers
+* <span style="color:blue">Rethinking Batch Normalization in Transformers</span>.\\
+S. Sheng<sup>*</sup>, Z. Yao<sup>*</sup>, A. Gholami, M. W. Mahoney, and K. Keutzer\\
+[arXiv](https://arxiv.org/pdf/2003.07845.pdf)
 * <span style="color:blue">ZeroQ: A Novel Zero Shot Quantization Framework</span>.\\
 Y. Cai<sup>*</sup>, Z. Yao<sup>*</sup>, Z. Dong<sup>*</sup>, A. Gholami, M. W. Mahoney, and K. Keutzer\\
 [arXiv](https://arxiv.org/pdf/2001.00281.pdf), [code](https://github.com/amirgholami/ZeroQ)\\
