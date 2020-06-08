@@ -20,10 +20,10 @@ Publications
 ### Papers
 * <span style="color:blue">ADAHESSIAN: An Adaptive Second Order Optimizer for Machine Learning</span>.\\
 Z. Yao<sup>*</sup>, A. Gholami<sup>*</sup>, S. Shen<, K. Keutzer, and M. W. Mahoney, \\
-[arXiv](https://arxiv.org/pdf/2006.00719.pdf)
+[arXiv](https://arxiv.org/pdf/2006.00719.pdf)\\
 * <span style="color:blue">Rethinking Batch Normalization in Transformers</span>.\\
 S. Shen<sup>*</sup>, Z. Yao<sup>*</sup>, A. Gholami, M. W. Mahoney, and K. Keutzer\\
-[arXiv](https://arxiv.org/pdf/2003.07845.pdf)
+[arXiv](https://arxiv.org/pdf/2003.07845.pdf)\\
 Accepted for publication, Proc. ICML 2020.
 * <span style="color:blue">ZeroQ: A Novel Zero Shot Quantization Framework</span>.\\
 Y. Cai<sup>*</sup>, Z. Yao<sup>*</sup>, Z. Dong<sup>*</sup>, A. Gholami, M. W. Mahoney, and K. Keutzer\\
@@ -57,7 +57,8 @@ L. Ma, G. Montague, J. Ye, Z. Yao, A. Gholami, K. Keutzer, M. W. Mahoney\\
 Accepted for publication, Proc. AAAI 2020.
 * <span style="color:blue">Shallow Learning for Fluid Flow Reconstruction with Limited Sensors and Limited Data</span>.\\
 N. B. Erichson, L. Mathelin, Z. Yao, S. L. Brunton, M. W. Mahoney, J. N. Kutz\\
-[arXiv](https://arxiv.org/pdf/1902.07358.pdf)
+[arXiv](https://arxiv.org/pdf/1902.07358.pdf)\\
+Accepted for publication, Proceedings of the Royal Society A.
 * <span style="color:blue">JumpReLU: A Retrofit Defense Strategy for Adversarial Attacks</span>.\\
 N. B. Erichson<sup>*</sup>, Z. Yao<sup>*</sup>, M. W. Mahoney\\
 [arXiv](https://arxiv.org/pdf/1904.03750.pdf)\\
