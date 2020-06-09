@@ -20,7 +20,7 @@ Publications
 ### Papers
 * <span style="color:blue">ADAHESSIAN: An Adaptive Second Order Optimizer for Machine Learning</span>.\\
 Z. Yao<sup>*</sup>, A. Gholami<sup>*</sup>, S. Shen, K. Keutzer, and M. W. Mahoney, \\
-[arXiv](https://arxiv.org/pdf/2006.00719.pdf)
+[arXiv](https://arxiv.org/pdf/2006.00719.pdf), [code](https://github.com/amirgholami/adahessian)
 * <span style="color:blue">Rethinking Batch Normalization in Transformers</span>.\\
 S. Shen<sup>*</sup>, Z. Yao<sup>*</sup>, A. Gholami, M. W. Mahoney, and K. Keutzer\\
 [arXiv](https://arxiv.org/pdf/2003.07845.pdf)\\
