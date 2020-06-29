@@ -31,7 +31,8 @@ Y. Cai<sup>*</sup>, Z. Yao<sup>*</sup>, Z. Dong<sup>*</sup>, A. Gholami, M. W. M
 Accepted for publication, Proc. CVPR 2020.
 * <span style="color:blue">PyHessian: Neural Networks Through the Lens of the Hessian</span>.\\
 Z. Yao<sup>*</sup>, A. Gholami<sup>*</sup>, K. Keutzer, M. W. Mahoney\\
-[arXiv](https://arxiv.org/pdf/1912.07145.pdf), [code](https://github.com/amirgholami/PyHessian)
+[arXiv](https://arxiv.org/pdf/1912.07145.pdf), [code](https://github.com/amirgholami/PyHessian)\\
+A short version was accepted as a spotlight paper at ICML'20 workshop on Beyond First-Order Optimization Methods in Machine Learning.
 * <span style="color:blue">HAWQ-V2: Hessian Aware trace-Weighted Quantization of Neural Networks</span>.\\
 Z. Dong, Z. Yao, Y. Cai, D. Arfeen, A. Gholami, M. W. Mahoney, K. Keutzer\\
 [arXiv](https://arxiv.org/pdf/1911.03852.pdf)\\
