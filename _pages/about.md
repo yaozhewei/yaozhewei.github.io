@@ -16,8 +16,19 @@ Zhewei Yao is a Ph.D. student in the [BAIR](https://bair.berkeley.edu/), [RISELa
 
 Publications
 ======
-
 ### Papers
+* <span style="color:blue">HAWQ-V3: Dyadic Neural Network Quantization in Mixed Precision</span>.\\
+Z. Yao<sup>*</sup>, Z. Dong<sup>*</sup>, Z. Zheng<sup>*</sup>, A. Gholami<sup>*</sup>, E. Tan, J. Li, L. Yuan, Q. Huang, Y. Wang, M. W. Mahoney, K. Keutzer\\
+Under submission
+* <span style="color:blue">Benchmarking Semi-supervised Federated Learning</span>.\\
+Z. Zhang<sup>*</sup>, Z. Yao<sup>*</sup>, Y. Yang, Y. Yan, J. E. Gonzalez, and M. W. Mahoney\\
+[arXiv](https://arxiv.org/pdf/2008.11364.pdf)
+* <span style="color:blue">A Statistical Framework for Low-bitwidth Training of Deep Neural Networks</span>.\\
+J. Chen, Y. Gai, Z. Yao, M. W. Mahoney, and J. E. GonZalez\\
+Accepted for publication, Proc. NeurIPS 2020.
+* <span style="color:blue">An Effective Framework for Weakly-Supervised Phrase Grounding</span>.\\
+Q. Wang, H. Tan, S. Shen, M. W. Mahoney, and Z. Yao\\
+Accepted for publication, Proc. EMNLP 2020.
 * <span style="color:blue">ADAHESSIAN: An Adaptive Second Order Optimizer for Machine Learning</span>.\\
 Z. Yao<sup>*</sup>, A. Gholami<sup>*</sup>, S. Shen, K. Keutzer, and M. W. Mahoney, \\
 [arXiv](https://arxiv.org/pdf/2006.00719.pdf), [code](https://github.com/amirgholami/adahessian)
@@ -36,7 +47,7 @@ A short version was accepted as a spotlight paper at ICML'20 workshop on Beyond 
 * <span style="color:blue">HAWQ-V2: Hessian Aware trace-Weighted Quantization of Neural Networks</span>.\\
 Z. Dong, Z. Yao, Y. Cai, D. Arfeen, A. Gholami, M. W. Mahoney, K. Keutzer\\
 [arXiv](https://arxiv.org/pdf/1911.03852.pdf)\\
-A short version was accepted as a spotlight paper at NuerIPS'19 workshop on Beyond First-Order Optimization Methods in Machine Learning.
+Accepted for publication, Proc. NeurIPS 2020.
 * <span style="color:blue">Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT</span>.\\
 S. Shen, Z. Dong, J. Ye, L. Ma, Z. Yao, A. Gholami, M. W. Mahoney, K. Keutzer\\
 [arXiv](https://arxiv.org/pdf/1909.05840.pdf)\\
@@ -105,6 +116,10 @@ Integration of Deep Learning Theories, NeurIPS 2018
 
 Talks
 ======
+* ICML'20 Workshop on Beyond First-Order Optimization Methods in Machine Learning ([Beyond](https://sites.google.com/view/optml-icml2020))\\
+Online (July, 2020)
+* Berkeley Real-time Intelligent Secure Explanaible Systems Lab Sponsor Retreat ([RiseLab](https://rise.cs.berkeley.edu/))\\
+Tahoe Lake, CA, USA (May, 2020)
 * NeurIPS'19 Workshop on Beyond First-Order Optimization Methods in Machine Learning ([Beyond](https://sites.google.com/site/optneurips19/))\\
 Vancouver, Canada (December, 2019)
 * DIMACS Workshop on Randomized Numerical Linear Algebra, Statistics, and Optimization ([DIMACS](http://dimacs.rutgers.edu/programs/sf/sf-optimization/))\\
