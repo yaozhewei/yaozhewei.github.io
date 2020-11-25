@@ -17,22 +17,24 @@ Zhewei Yao is a Ph.D. student in the [BAIR](https://bair.berkeley.edu/), [RISELa
 Publications
 ======
 ### Papers
-* <span style="color:blue">HAWQ-V3: Dyadic Neural Network Quantization in Mixed Precision</span>.\\
-Z. Yao<sup>*</sup>, Z. Dong<sup>*</sup>, Z. Zheng<sup>*</sup>, A. Gholami<sup>*</sup>, E. Tan, J. Li, L. Yuan, Q. Huang, Y. Wang, M. W. Mahoney, K. Keutzer\\
-Under submission
+* <span style="color:blue">HAWQ-V3: Dyadic Neural Network Quantization</span>.\\
+Z. Yao<sup>*</sup>, Z. Dong<sup>*</sup>, Z. Zheng<sup>*</sup>, A. Gholami<sup>*</sup>, J. Yu, E. Tan, L. Wang, Q. Huang, Y. Wang, M. W. Mahoney, K. Keutzer\\
+[arXiv](https://arxiv.org/pdf/2011.10680.pdf), [code](https://github.com/Zhen-Dong/HAWQ)
 * <span style="color:blue">Benchmarking Semi-supervised Federated Learning</span>.\\
 Z. Zhang<sup>*</sup>, Z. Yao<sup>*</sup>, Y. Yang, Y. Yan, J. E. Gonzalez, and M. W. Mahoney\\
 [arXiv](https://arxiv.org/pdf/2008.11364.pdf)
 * <span style="color:blue">A Statistical Framework for Low-bitwidth Training of Deep Neural Networks</span>.\\
 J. Chen, Y. Gai, Z. Yao, M. W. Mahoney, and J. E. GonZalez\\
+[arXiv](https://arxiv.org/pdf/2010.14298.pdf), [code](https://github.com/cjf00000/StatQuant)
 Accepted for publication, Proc. NeurIPS 2020.
-* <span style="color:blue">An Effective Framework for Weakly-Supervised Phrase Grounding</span>.\\
+* <span style="color:blue">MAF: Multimodal Alignment Framework for Weakly-Supervised Phrase Grounding</span>.\\
 Q. Wang, H. Tan, S. Shen, M. W. Mahoney, and Z. Yao\\
+[arXiv](https://arxiv.org/pdf/2010.05379.pdf), [code](https://github.com/qinzzz/Multimodal-Alignment-Framework)
 Accepted for publication, Proc. EMNLP 2020.
 * <span style="color:blue">ADAHESSIAN: An Adaptive Second Order Optimizer for Machine Learning</span>.\\
 Z. Yao<sup>*</sup>, A. Gholami<sup>*</sup>, S. Shen, K. Keutzer, and M. W. Mahoney, \\
 [arXiv](https://arxiv.org/pdf/2006.00719.pdf), [code](https://github.com/amirgholami/adahessian)
-* <span style="color:blue">Rethinking Batch Normalization in Transformers</span>.\\
+* <span style="color:blue">PowerNorm: Rethinking Batch Normalization in Transformers</span>.\\
 S. Shen<sup>*</sup>, Z. Yao<sup>*</sup>, A. Gholami, M. W. Mahoney, and K. Keutzer\\
 [arXiv](https://arxiv.org/pdf/2003.07845.pdf)\\
 Accepted for publication, Proc. ICML 2020.
@@ -43,10 +45,10 @@ Accepted for publication, Proc. CVPR 2020.
 * <span style="color:blue">PyHessian: Neural Networks Through the Lens of the Hessian</span>.\\
 Z. Yao<sup>*</sup>, A. Gholami<sup>*</sup>, K. Keutzer, M. W. Mahoney\\
 [arXiv](https://arxiv.org/pdf/1912.07145.pdf), [code](https://github.com/amirgholami/PyHessian)\\
-A short version was accepted as a spotlight paper at ICML'20 workshop on Beyond First-Order Optimization Methods in Machine Learning.
+Accepted for publication, Proc. IEEE BigData 2020.
 * <span style="color:blue">HAWQ-V2: Hessian Aware trace-Weighted Quantization of Neural Networks</span>.\\
 Z. Dong, Z. Yao, Y. Cai, D. Arfeen, A. Gholami, M. W. Mahoney, K. Keutzer\\
-[arXiv](https://arxiv.org/pdf/1911.03852.pdf)\\
+[arXiv](https://arxiv.org/pdf/1911.03852.pdf), [code](https://github.com/Zhen-Dong/HAWQ)\\
 Accepted for publication, Proc. NeurIPS 2020.
 * <span style="color:blue">Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT</span>.\\
 S. Shen, Z. Dong, J. Ye, L. Ma, Z. Yao, A. Gholami, M. W. Mahoney, K. Keutzer\\
@@ -61,7 +63,7 @@ K. Rothauge, Z. Yao, Z. Hu, and M. W. Mahoney\\
 [arXiv](https://arxiv.org/pdf/1905.13386.pdf)
 * <span style="color:blue">HAWQ: Hessian AWare Quantization of Neural Networks with Mixed-Precision</span>.\\
 Z. Dong<sup>*</sup>, Z. Yao<sup>*</sup>, A. Gholami<sup>*</sup>, M. W. Mahoney, K. Keutzer\\
-[arXiv](https://arxiv.org/pdf/1905.03696.pdf)\\
+[arXiv](https://arxiv.org/pdf/1905.03696.pdf), [code](https://github.com/Zhen-Dong/HAWQ)\\
 Accepted for publication, Proc. ICCV 2019.
 * <span style="color:blue">Inefficiency of K-FAC for Large Batch Size Training</span>.\\
 L. Ma, G. Montague, J. Ye, Z. Yao, A. Gholami, K. Keutzer, M. W. Mahoney\\
@@ -95,7 +97,8 @@ Z. Yao<sup>*</sup>, A. Gholami<sup>*</sup>, Q. Lei, K. Keutzer, M. W. Mahoney\\
 Accepted for publication, Proc. NIPS 2018.
 * <span style="color:blue">Inexact non-convex Newton-type methods</span>.\\
 Z. Yao, P. Xu, F. Roosta-Khorasani, M. W. Mahoney\\
-[arXiv](https://arxiv.org/pdf/1802.06925.pdf)
+[arXiv](https://arxiv.org/pdf/1802.06925.pdf)\\
+Accepted for publication, INFORMS Journal on Optimization.
 * <span style="color:blue">A hybrid adaptive MCMC algorithm in function spaces</span>.\\
 Q. Zhou, Z. Hu, Z. Yao, J. Li\\
 [arXiv](https://arxiv.org/pdf/1607.01458.pdf)\\
