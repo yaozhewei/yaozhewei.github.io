@@ -130,6 +130,8 @@ Online (December, 2020), [slides](http://yaozhewei.github.io/files/pyhessian.pdf
 Online (Oct, 2020), [slides1](http://yaozhewei.github.io/files/adahessian.pdf) and [slides2](http://yaozhewei.github.io/files/pyhessian.pdf), [vedio](https://www.youtube.com/watch?v=sMDhXKqxfZc&list=PLTPaZLQlNIHo16Qq67CqWS6UKWrYREeKg&index=8)
 * Fast.AI ([Fast.AI](https://www.fast.ai/))\\
 Online (Oct, 2020), [slides](http://yaozhewei.github.io/files/adahessian.pdf), [vedio](https://www.youtube.com/watch?v=S87ancnZ0MM)
+* Scalable Parallel Computing Lab ([SPCL](https://spcl.inf.ethz.ch/Bcast/))\\
+Online (Oct, 2020), [slides](http://yaozhewei.github.io/files/adahessian.pdf), [vedio](https://youtu.be/AM9Bo8jLPpE)
 * ICML'20 Workshop on Beyond First-Order Optimization Methods in Machine Learning ([Beyond](https://sites.google.com/view/optml-icml2020))\\
 Online (July, 2020), [slides](http://yaozhewei.github.io/files/pyhessian.pdf), [vedio](https://icml.cc/virtual/2020/workshop/5737)
 * Berkeley Real-time Intelligent Secure Explanaible Systems Lab Sponsor Retreat ([RiseLab](https://rise.cs.berkeley.edu/))\\
