@@ -17,6 +17,10 @@ Zhewei Yao is a Ph.D. student in the [BAIR](https://bair.berkeley.edu/), [RISELa
 Publications
 ======
 ## Conference Publications
+* <span style="color:blue">ADAHESSIAN: An Adaptive Second Order Optimizer for Machine Learning</span>.\\
+**Z. Yao<sup>*</sup>**, A. Gholami<sup>*</sup>, S. Shen, K. Keutzer, and M. W. Mahoney, \\
+[arXiv](https://arxiv.org/pdf/2006.00719.pdf), [code](https://github.com/amirgholami/adahessian)\\
+Accepted for publication, Proc. AAAI 2021.
 * <span style="color:blue">A Statistical Framework for Low-bitwidth Training of Deep Neural Networks</span>.\\
 J. Chen, Y. Gai, **Z. Yao**, M. W. Mahoney, and J. E. GonZalez\\
 [arXiv](https://arxiv.org/pdf/2010.14298.pdf), [code](https://github.com/cjf00000/StatQuant)\\
@@ -108,9 +112,6 @@ Integration of Deep Learning Theories, NeurIPS 2018
 * <span style="color:blue">Benchmarking Semi-supervised Federated Learning</span>.\\
 Z. Zhang<sup>*</sup>, **Z. Yao<sup>*</sup>**, Y. Yang, Y. Yan, J. E. Gonzalez, and M. W. Mahoney\\
 [arXiv](https://arxiv.org/pdf/2008.11364.pdf)
-* <span style="color:blue">ADAHESSIAN: An Adaptive Second Order Optimizer for Machine Learning</span>.\\
-**Z. Yao<sup>*</sup>**, A. Gholami<sup>*</sup>, S. Shen, K. Keutzer, and M. W. Mahoney, \\
-[arXiv](https://arxiv.org/pdf/2006.00719.pdf), [code](https://github.com/amirgholami/adahessian)
 * <span style="color:blue">Residual Networks as Nonlinear Systems: Stability Analysis using Linearization</span>.\\
 K. Rothauge, **Z. Yao**, Z. Hu, and M. W. Mahoney\\
 [arXiv](https://arxiv.org/pdf/1905.13386.pdf)
