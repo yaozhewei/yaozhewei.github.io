@@ -16,7 +16,7 @@ Zhewei Yao is a Ph.D. student in the [BAIR](https://bair.berkeley.edu/), [RISELa
 
 Publications
 ======
-## Conference Publications
+## Conference
 * <span style="color:blue">ADAHESSIAN: An Adaptive Second Order Optimizer for Machine Learning</span>.\\
 **Z. Yao<sup>*</sup>**, A. Gholami<sup>*</sup>, S. Shen, K. Keutzer, and M. W. Mahoney, \\
 [arXiv](https://arxiv.org/pdf/2006.00719.pdf), [code](https://github.com/amirgholami/adahessian)\\
@@ -74,7 +74,7 @@ Accepted for publication, Proc. CVPR 2019.
 [arXiv](https://arxiv.org/pdf/1802.08241.pdf), [code](https://github.com/amirgholami/HessianFlow)\\
 Accepted for publication, Proc. NIPS 2018.
 
-## Journal Publications
+## Journal
 * <span style="color:blue">Shallow Learning for Fluid Flow Reconstruction with Limited Sensors and Limited Data</span>.\\
 N. B. Erichson, L. Mathelin, **Z. Yao**, S. L. Brunton, M. W. Mahoney, J. N. Kutz\\
 [arXiv](https://arxiv.org/pdf/1902.07358.pdf)\\
@@ -96,7 +96,7 @@ Journal of Computational Physics 332, 492-503
 [arXiv](https://arxiv.org/pdf/1510.05239.pdf)\\
 Inverse Problems 32 (7), 075006
 
-## Workshop Publications
+## Workshop
 * <span style="color:blue">Parameter Re-Initialization through Cyclical Batch Scheduling</span>.\\
 N. Mu<sup>*</sup>, **Z. Yao<sup>*</sup>**, A. Gholami, K. Keutzer, M. W. Mahoney\\
 [arXiv](https://arxiv.org/pdf/1812.01216.pdf)\\
@@ -105,7 +105,7 @@ Accepted for publication, Proc. MLSYS Workshop at NIPS 2018
 D. Rothchild, R. Fox, N. Golmant, J. Gonzalez, M. W. Mahoney, K. Rothauge, I. Stoica and **Z. Yao**\\
 Integration of Deep Learning Theories, NeurIPS 2018
 
-## Preprint and Technical Reports
+## Preprint and Technical Report
 * <span style="color:blue">HAWQ-V3: Dyadic Neural Network Quantization</span>.\\
 **Z. Yao<sup>*</sup>**, Z. Dong<sup>*</sup>, Z. Zheng<sup>*</sup>, A. Gholami<sup>*</sup>, J. Yu, E. Tan, L. Wang, Q. Huang, Y. Wang, M. W. Mahoney, K. Keutzer\\
 [arXiv](https://arxiv.org/pdf/2011.10680.pdf), [code](https://github.com/Zhen-Dong/HAWQ)
