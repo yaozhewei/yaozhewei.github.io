@@ -12,7 +12,7 @@ redirect_from:
 
 About Me
 ======
-Zhewei Yao is a Ph.D. student in the [BAIR](https://bair.berkeley.edu/), [RISELab](https://rise.cs.berkeley.edu/) ([former AMPLab](https://amplab.cs.berkeley.edu)), [BDD](https://deepdrive.berkeley.edu/), and [Math Department](https://math.berkeley.edu/) at University of California at Berkeley. He is advised by [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/), and he is also working very closely with [Kurt Keutzer](https://people.eecs.berkeley.edu/~keutzer/). His research interest lies in computing statistics, optimization, and machine learning. Currently, he is interested in leveraging tools from randomized linear algebra to provide efficient and scalable solutions for large-scale optimization and learning problems. He is also working on the theory and application of deep learning. Before joining UC Berkeley, he received his B.S. in Math from [Zhiyuan Honor College](http://zhiyuan.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). [CV](http://yaozhewei.github.io/files/CV.pdf)
+Zhewei Yao is a Ph.D. student in the [BAIR](https://bair.berkeley.edu/), [RISELab](https://rise.cs.berkeley.edu/) ([former AMPLab](https://amplab.cs.berkeley.edu)), [BDD](https://deepdrive.berkeley.edu/), and [Math Department](https://math.berkeley.edu/) at University of California at Berkeley. He is advised by [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/), and he is also working very closely with [Kurt Keutzer](https://people.eecs.berkeley.edu/~keutzer/). His research interest lies in computing statistics, optimization, and machine learning. Currently, he is interested in leveraging tools from randomized linear algebra to provide efficient and scalable solutions for large-scale optimization and learning problems. He is also working on the theory and application of deep learning. Before joining UC Berkeley, he received his B.S. in Math from [Zhiyuan Honor College](http://zhiyuan.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). [CV](http://yaozhewei.github.io/files/CV.pdf)(last update 12/02/2020)
 
 Publications
 ======
@@ -31,7 +31,7 @@ Q. Wang, H. Tan, S. Shen, M. W. Mahoney, and **Z. Yao**\\
 Accepted for publication, Proc. EMNLP 2020.
 * <span style="color:blue">PowerNorm: Rethinking Batch Normalization in Transformers</span>.\\
 S. Shen<sup>*</sup>, **Z. Yao<sup>*</sup>**, A. Gholami, M. W. Mahoney, and K. Keutzer\\
-[arXiv](https://arxiv.org/pdf/2003.07845.pdf)\\
+[arXiv](https://arxiv.org/pdf/2003.07845.pdf), [code](https://github.com/sIncerass/powernorm)\\
 Accepted for publication, Proc. ICML 2020.
 * <span style="color:blue">ZeroQ: A Novel Zero Shot Quantization Framework</span>.\\
 Y. Cai<sup>*</sup>, **Z. Yao<sup>*</sup>**, Z. Dong<sup>*</sup>, A. Gholami, M. W. Mahoney, and K. Keutzer\\
@@ -81,7 +81,7 @@ N. B. Erichson, L. Mathelin, **Z. Yao**, S. L. Brunton, M. W. Mahoney, J. N. Kut
 Accepted for publication, Proceedings of the Royal Society A.
 * <span style="color:blue">Inexact non-convex Newton-type methods</span>.\\
 **Z. Yao**, P. Xu, F. Roosta-Khorasani, M. W. Mahoney\\
-[arXiv](https://arxiv.org/pdf/1802.06925.pdf)\\
+[arXiv](https://arxiv.org/pdf/1802.06925.pdf), [code](https://github.com/yaozhewei/Inexact_Newton_Method)\\
 Accepted for publication, INFORMS Journal on Optimization.
 * <span style="color:blue">A hybrid adaptive MCMC algorithm in function spaces</span>.\\
 Q. Zhou, Z. Hu, **Z. Yao**, J. Li\\
@@ -94,7 +94,7 @@ Journal of Computational Physics 332, 492-503
 * <span style="color:blue"> A TV-Gaussian prior for infinite-dimensional Bayesian inverse problems and its numerical implementation</span>.\\
 **Z. Yao**, Z. Hu, J. Li\\
 [arXiv](https://arxiv.org/pdf/1510.05239.pdf)\\
-Inverse Problems 32 (7), 075006
+Inverse Problems 32 (7), 075006 (Highlight Paper)
 
 ## Workshop
 * <span style="color:blue">Parameter Re-Initialization through Cyclical Batch Scheduling</span>.\\
@@ -111,7 +111,7 @@ Integration of Deep Learning Theories, NeurIPS 2018
 [arXiv](https://arxiv.org/pdf/2011.10680.pdf), [code](https://github.com/Zhen-Dong/HAWQ)
 * <span style="color:blue">Benchmarking Semi-supervised Federated Learning</span>.\\
 Z. Zhang<sup>*</sup>, **Z. Yao<sup>*</sup>**, Y. Yang, Y. Yan, J. E. Gonzalez, and M. W. Mahoney\\
-[arXiv](https://arxiv.org/pdf/2008.11364.pdf)
+[arXiv](https://arxiv.org/pdf/2008.11364.pdf), [code](https://github.com/jhcknzzm/SSFL-Benchmarking-Semi-supervised-Federated-Learning)
 * <span style="color:blue">Residual Networks as Nonlinear Systems: Stability Analysis using Linearization</span>.\\
 K. Rothauge, **Z. Yao**, Z. Hu, and M. W. Mahoney\\
 [arXiv](https://arxiv.org/pdf/1905.13386.pdf)
