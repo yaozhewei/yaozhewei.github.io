@@ -12,7 +12,7 @@ redirect_from:
 
 About Me
 ======
-Zhewei Yao is a Ph.D. student in the [BAIR](https://bair.berkeley.edu/), [RISELab](https://rise.cs.berkeley.edu/) ([former AMPLab](https://amplab.cs.berkeley.edu)), [BDD](https://deepdrive.berkeley.edu/), and [Math Department](https://math.berkeley.edu/) at University of California at Berkeley. He is advised by [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/), and he is also working very closely with [Kurt Keutzer](https://people.eecs.berkeley.edu/~keutzer/). His research interest lies in computing statistics, optimization, and machine learning. Currently, he is interested in leveraging tools from randomized linear algebra to provide efficient and scalable solutions for large-scale optimization and learning problems. He is also working on the theory and application of deep learning. Before joining UC Berkeley, he received his B.S. in Math from [Zhiyuan Honor College](http://zhiyuan.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). [CV](http://yaozhewei.github.io/files/CV.pdf)(last update 12/02/2020)
+Zhewei Yao is a Ph.D. student in the [BAIR](https://bair.berkeley.edu/), [RISELab](https://rise.cs.berkeley.edu/) ([former AMPLab](https://amplab.cs.berkeley.edu)), [BDD](https://deepdrive.berkeley.edu/), and [Math Department](https://math.berkeley.edu/) at University of California at Berkeley. He is advised by [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/), and he is also working very closely with [Kurt Keutzer](https://people.eecs.berkeley.edu/~keutzer/). His research interest lies in computing statistics, optimization, and machine learning. Currently, he is interested in leveraging tools from randomized linear algebra to provide efficient and scalable solutions for large-scale optimization and learning problems. He is also working on the theory and application of deep learning. Before joining UC Berkeley, he received his B.S. in Math from [Zhiyuan Honor College](http://zhiyuan.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). Here is my [CV](http://yaozhewei.github.io/files/CV.pdf) (last update 12/02/2020).
 
 Publications
 ======
@@ -124,22 +124,28 @@ N. Golmant, N. Vemuri, **Z. Yao**, V. Feinberg, A. Gholami, K. Rothauge, M. W. M
 
 Selected Talks
 ======
+* IEEE BigData'20 ([BigData](https://bigdataieee.org/BigData2020/))\\
+Online (December, 2020), [slides](http://yaozhewei.github.io/files/pyhessian.pdf)
+* Berkeley Real-time Intelligent Secure Explanaible Systems Lab Camp ([RiseLab](https://rise.cs.berkeley.edu/))\\
+Online (Oct, 2020), [slides1](http://yaozhewei.github.io/files/adahessian.pdf) and [slides2](http://yaozhewei.github.io/files/pyhessian.pdf), [vedio](https://www.youtube.com/watch?v=sMDhXKqxfZc&list=PLTPaZLQlNIHo16Qq67CqWS6UKWrYREeKg&index=8)
+* Fast.AI ([Fast.AI](https://www.fast.ai/))\\
+Online (Oct, 2020), [slides](http://yaozhewei.github.io/files/adahessian.pdf), [vedio](https://www.youtube.com/watch?v=S87ancnZ0MM)
 * ICML'20 Workshop on Beyond First-Order Optimization Methods in Machine Learning ([Beyond](https://sites.google.com/view/optml-icml2020))\\
-Online (July, 2020)
+Online (July, 2020), [slides](http://yaozhewei.github.io/files/pyhessian.pdf), [vedio](https://icml.cc/virtual/2020/workshop/5737)
 * Berkeley Real-time Intelligent Secure Explanaible Systems Lab Sponsor Retreat ([RiseLab](https://rise.cs.berkeley.edu/))\\
-Tahoe Lake, CA, USA (May, 2020)
+Tahoe Lake, CA, USA (May, 2020), [slides](http://yaozhewei.github.io/files/adahessian.pdf)
 * NeurIPS'19 Workshop on Beyond First-Order Optimization Methods in Machine Learning ([Beyond](https://sites.google.com/site/optneurips19/))\\
 Vancouver, Canada (December, 2019)
 * DIMACS Workshop on Randomized Numerical Linear Algebra, Statistics, and Optimization ([DIMACS](http://dimacs.rutgers.edu/programs/sf/sf-optimization/))\\
-Rutgers University, New Jersey, USA (September, 2019)
+Rutgers University, New Jersey, USA (September, 2019), [slides](http://yaozhewei.github.io/files/NLA.pdf)
 * Computer Vision Panel ([IJCAI](https://www.ijcai19.org/)) \\
-Macau, China (August, 2019)
+Macau, China (August, 2019), [slides](http://yaozhewei.github.io/files/ANODE.pdf)
 * Randomized Algorithms for Optimization Problems in Statistics ([JSM](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/ActivityDetails.cfm?sessionid=217975))\\
-Colorado Convention Center, Denver, Colorado, USA (July, 2019)
+Colorado Convention Center, Denver, Colorado, USA (July, 2019), [slides](http://yaozhewei.github.io/files/JSM.pdf)
 * Berkeley Scientific Computing and Matrix Computations Seminar ([Link](https://math.berkeley.edu/~mgu/LAPACKSeminar.htm))\\
-Berkeley, CA, USA (November, 2018)
+Berkeley, CA, USA (November, 2018), [slides](http://yaozhewei.github.io/files/absa.pdf)
 * Berkeley Real-time Intelligent Secure Explanaible Systems Lab Sponsor Retreat ([RiseLab](https://rise.cs.berkeley.edu/))\\
-Tahoe Lake, CA, USA (August, 2018)
+Tahoe Lake, CA, USA (August, 2018), [slides](http://yaozhewei.github.io/files/absa.pdf)
 
 Teaching
 ======
