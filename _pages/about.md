@@ -12,7 +12,7 @@ redirect_from:
 
 About Me
 ======
-Zhewei Yao is a Ph.D. student in the [BAIR](https://bair.berkeley.edu/), [RISELab](https://rise.cs.berkeley.edu/) ([former AMPLab](https://amplab.cs.berkeley.edu)), [BDD](https://deepdrive.berkeley.edu/), and [Math Department](https://math.berkeley.edu/) at University of California at Berkeley. He is advised by [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/), and he is also working very closely with [Kurt Keutzer](https://people.eecs.berkeley.edu/~keutzer/). His research interest lies in computing statistics, optimization, and machine learning. Currently, he is interested in leveraging tools from randomized linear algebra to provide efficient and scalable solutions for large-scale optimization and learning problems. He is also working on the theory and application of deep learning. Before joining UC Berkeley, he received his B.S. in Math from [Zhiyuan Honor College](http://zhiyuan.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). Here is the [CV](http://yaozhewei.github.io/files/CV.pdf) (last update 12/02/2020).
+Zhewei Yao is a Ph.D. student in the [BAIR](https://bair.berkeley.edu/), [RISELab](https://rise.cs.berkeley.edu/) ([former AMPLab](https://amplab.cs.berkeley.edu)), [BDD](https://deepdrive.berkeley.edu/), and [Math Department](https://math.berkeley.edu/) at University of California at Berkeley. He is advised by [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/), and he is also working very closely with [Kurt Keutzer](https://people.eecs.berkeley.edu/~keutzer/). His research interest lies in computing statistics, optimization, and machine learning. Currently, he is interested in leveraging tools from randomized linear algebra to provide efficient and scalable solutions for large-scale optimization and learning problems. He is also working on the theory and application of deep learning. Before joining UC Berkeley, he received his B.S. in Math from [Zhiyuan Honor College](http://zhiyuan.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). Here is the [CV](http://yaozhewei.github.io/files/CV.pdf) (last update 12/20/2020).
 
 Publications
 ======
@@ -106,6 +106,9 @@ D. Rothchild, R. Fox, N. Golmant, J. Gonzalez, M. W. Mahoney, K. Rothauge, I. St
 Integration of Deep Learning Theories, NeurIPS 2018
 
 ## Preprint and Technical Report
+* <span style="color:blue">I-BERT: Integer-only BERT Quantization</span>.\\
+S. Kim<sup>*</sup>, A. Gholami<sup>*</sup>, **Z. Yao<sup>*</sup>**, M. W. Mahoney, K. Keutzer\\
+[arXiv](https://arxiv.org/pdf/2101.01321.pdf), [code](https://github.com/kssteven418/I-BERT)
 * <span style="color:blue">HAWQ-V3: Dyadic Neural Network Quantization</span>.\\
 **Z. Yao<sup>*</sup>**, Z. Dong<sup>*</sup>, Z. Zheng<sup>*</sup>, A. Gholami<sup>*</sup>, J. Yu, E. Tan, L. Wang, Q. Huang, Y. Wang, M. W. Mahoney, K. Keutzer\\
 [arXiv](https://arxiv.org/pdf/2011.10680.pdf), [code](https://github.com/Zhen-Dong/HAWQ)
