@@ -106,6 +106,9 @@ D. Rothchild, R. Fox, N. Golmant, J. Gonzalez, M. W. Mahoney, K. Rothauge, I. St
 Integration of Deep Learning Theories, NeurIPS 2018
 
 ## Preprint and Technical Report
+* <span style="color:blue">Hessian-Aware Pruning and Optimal Neural Implant</span>.\\
+S. Yu<sup>*</sup>, **Z. Yao<sup>*</sup>**, A. Gholami<sup>*</sup>, Z. Dong<sup>*</sup>,, M. W. Mahoney, K. Keutzer\\
+[arXiv](https://arxiv.org/pdf/2101.08940.pdf), [code](https://https://github.com/yaozhewei/hap)
 * <span style="color:blue">I-BERT: Integer-only BERT Quantization</span>.\\
 S. Kim<sup>*</sup>, A. Gholami<sup>*</sup>, **Z. Yao<sup>*</sup>**, M. W. Mahoney, K. Keutzer\\
 [arXiv](https://arxiv.org/pdf/2101.01321.pdf), [code](https://github.com/kssteven418/I-BERT)
