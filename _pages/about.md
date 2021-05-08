@@ -17,6 +17,18 @@ Zhewei Yao is a Ph.D. student in the [BAIR](https://bair.berkeley.edu/), [RISELa
 Publications
 ======
 ## Conference
+* <span style="color:blue">ActNN: Reducing Training Memory Footprint via 2-Bit Activation Compressed Training</span>.\\
+J. Chen, L. Zheng, Z. Yao, D. Wang, I. Stoica, M. W. Mahoney, J. E. Gonzalez\\
+[arXiv](https://arxiv.org/pdf/2104.14129.pdf)\\
+Accepted for publication, Proc. ICML 2021 (Long Talk).
+* <span style="color:blue">I-BERT: Integer-only BERT Quantization</span>.\\
+S. Kim<sup>*</sup>, A. Gholami<sup>*</sup>, **Z. Yao<sup>*</sup>**, M. W. Mahoney, K. Keutzer\\
+[arXiv](https://arxiv.org/pdf/2101.01321.pdf), [code](https://github.com/kssteven418/I-BERT)\\
+Accepted for publication, Proc. ICML 2021 (Long Talk).
+* <span style="color:blue">HAWQ-V3: Dyadic Neural Network Quantization</span>.\\
+**Z. Yao<sup>*</sup>**, Z. Dong<sup>*</sup>, Z. Zheng<sup>*</sup>, A. Gholami<sup>*</sup>, J. Yu, E. Tan, L. Wang, Q. Huang, Y. Wang, M. W. Mahoney, K. Keutzer\\
+[arXiv](https://arxiv.org/pdf/2011.10680.pdf), [code](https://github.com/Zhen-Dong/HAWQ)\\
+Accepted for publication, Proc. ICML 2021 (Short Talk).
 * <span style="color:blue">ADAHESSIAN: An Adaptive Second Order Optimizer for Machine Learning</span>.\\
 **Z. Yao<sup>*</sup>**, A. Gholami<sup>*</sup>, S. Shen, K. Keutzer, and M. W. Mahoney, \\
 [arXiv](https://arxiv.org/pdf/2006.00719.pdf), [code](https://github.com/amirgholami/adahessian)\\
@@ -106,9 +118,6 @@ D. Rothchild, R. Fox, N. Golmant, J. Gonzalez, M. W. Mahoney, K. Rothauge, I. St
 Integration of Deep Learning Theories, NeurIPS 2018
 
 ## Preprint and Technical Report
-* <span style="color:blue">ActNN: Reducing Training Memory Footprint via 2-Bit Activation Compressed Training</span>.\\
-J. Chen, L. Zheng, Z. Yao, D. Wang, I. Stoica, M. W. Mahoney, J. E. Gonzalez\\
-[arXiv](https://arxiv.org/pdf/2104.14129.pdf)
 * <span style="color:blue">Q-ASR: Integer-only Zero-shot Quantization for Efficient Speech Recognition</span>.\\
 S. Kim, A. Gholami, **Z. Yao**, A. Nrusimha, B. Zhai, T. Gao, M. W. Mahoney, K. Keutzer\\
 [arXiv](https://arxiv.org/pdf/2103.16827.pdf)
@@ -118,12 +127,6 @@ A. Gholami<sup>*</sup>, S. Kim<sup>*</sup>, Z. Dong<sup>*</sup>, **Z. Yao<sup>*<
 * <span style="color:blue">Hessian-Aware Pruning and Optimal Neural Implant</span>.\\
 S. Yu<sup>*</sup>, **Z. Yao<sup>*</sup>**, A. Gholami<sup>*</sup>, Z. Dong<sup>*</sup>, M. W. Mahoney, K. Keutzer\\
 [arXiv](https://arxiv.org/pdf/2101.08940.pdf), [code](https://https://github.com/yaozhewei/hap)
-* <span style="color:blue">I-BERT: Integer-only BERT Quantization</span>.\\
-S. Kim<sup>*</sup>, A. Gholami<sup>*</sup>, **Z. Yao<sup>*</sup>**, M. W. Mahoney, K. Keutzer\\
-[arXiv](https://arxiv.org/pdf/2101.01321.pdf), [code](https://github.com/kssteven418/I-BERT)
-* <span style="color:blue">HAWQ-V3: Dyadic Neural Network Quantization</span>.\\
-**Z. Yao<sup>*</sup>**, Z. Dong<sup>*</sup>, Z. Zheng<sup>*</sup>, A. Gholami<sup>*</sup>, J. Yu, E. Tan, L. Wang, Q. Huang, Y. Wang, M. W. Mahoney, K. Keutzer\\
-[arXiv](https://arxiv.org/pdf/2011.10680.pdf), [code](https://github.com/Zhen-Dong/HAWQ)
 * <span style="color:blue">Benchmarking Semi-supervised Federated Learning</span>.\\
 Z. Zhang<sup>*</sup>, **Z. Yao<sup>*</sup>**, Y. Yang, Y. Yan, J. E. Gonzalez, and M. W. Mahoney\\
 [arXiv](https://arxiv.org/pdf/2008.11364.pdf), [code](https://github.com/jhcknzzm/SSFL-Benchmarking-Semi-supervised-Federated-Learning)
@@ -139,8 +142,12 @@ N. Golmant, N. Vemuri, **Z. Yao**, V. Feinberg, A. Gholami, K. Rothauge, M. W. M
 
 Selected Talks
 ======
+* SIAM CSE'21: Beyond First Order Methods in Machine Learning Systems ([CSE](https://www.siam.org/conferences/cm/conference/cse21))\\
+Online (Mar, 2021)
+* AAAI'21 ([AAAI](https://aaai.org/Conferences/AAAI-21/))\\
+Online (Feb, 2021)
 * IEEE BigData'20 ([BigData](https://bigdataieee.org/BigData2020/))\\
-Online (December, 2020), [slides](http://yaozhewei.github.io/files/pyhessian.pdf)
+Online (Dec, 2020), [slides](http://yaozhewei.github.io/files/pyhessian.pdf)
 * Berkeley Real-time Intelligent Secure Explanaible Systems Lab Camp ([RiseLab](https://rise.cs.berkeley.edu/))\\
 Online (Oct, 2020), [slides1](http://yaozhewei.github.io/files/adahessian.pdf) and [slides2](http://yaozhewei.github.io/files/pyhessian.pdf), [vedio](https://www.youtube.com/watch?v=sMDhXKqxfZc&list=PLTPaZLQlNIHo16Qq67CqWS6UKWrYREeKg&index=8)
 * Fast.AI ([Fast.AI](https://www.fast.ai/))\\
