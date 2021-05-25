@@ -12,7 +12,7 @@ redirect_from:
 
 About Me
 ======
-Zhewei Yao is a Ph.D. student in the [BAIR](https://bair.berkeley.edu/), [RISELab](https://rise.cs.berkeley.edu/) ([former AMPLab](https://amplab.cs.berkeley.edu)), [BDD](https://deepdrive.berkeley.edu/), and [Math Department](https://math.berkeley.edu/) at University of California at Berkeley. He is advised by [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/), and he is also working very closely with [Kurt Keutzer](https://people.eecs.berkeley.edu/~keutzer/). His research interest lies in computing statistics, optimization, and machine learning. Currently, he is interested in leveraging tools from randomized linear algebra to provide efficient and scalable solutions for large-scale optimization and learning problems. He is also working on the theory and application of deep learning. Before joining UC Berkeley, he received his B.S. in Math from [Zhiyuan Honor College](http://zhiyuan.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). Here is the [CV](http://yaozhewei.github.io/files/CV.pdf) (last update 12/20/2020).
+Zhewei Yao was a Ph.D. student in the [BAIR](https://bair.berkeley.edu/), [RISELab](https://rise.cs.berkeley.edu/) ([former AMPLab](https://amplab.cs.berkeley.edu)), [BDD](https://deepdrive.berkeley.edu/), and [Math Department](https://math.berkeley.edu/) at University of California at Berkeley. He was advised by [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/), and he worked very closely with [Kurt Keutzer](https://people.eecs.berkeley.edu/~keutzer/). His research interest lies in computing statistics, optimization, and machine learning. Currently, he is interested in leveraging tools from randomized linear algebra to provide efficient and scalable solutions for large-scale optimization and learning problems. He is also working on the theory and application of deep learning. Before joining UC Berkeley, he received his B.S. in Math from [Zhiyuan Honor College](http://zhiyuan.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). Here is the [CV](http://yaozhewei.github.io/files/CV.pdf) (last update 5/25/2021).
 
 Publications
 ======
@@ -126,7 +126,7 @@ A. Gholami<sup>*</sup>, S. Kim<sup>*</sup>, Z. Dong<sup>*</sup>, **Z. Yao<sup>*<
 [arXiv](https://arxiv.org/pdf/2103.13630.pdf)
 * <span style="color:blue">Hessian-Aware Pruning and Optimal Neural Implant</span>.\\
 S. Yu<sup>*</sup>, **Z. Yao<sup>*</sup>**, A. Gholami<sup>*</sup>, Z. Dong<sup>*</sup>, M. W. Mahoney, K. Keutzer\\
-[arXiv](https://arxiv.org/pdf/2101.08940.pdf), [code](https://https://github.com/yaozhewei/hap)
+[arXiv](https://arxiv.org/pdf/2101.08940.pdf), [code](https://github.com/yaozhewei/hap)
 * <span style="color:blue">Benchmarking Semi-supervised Federated Learning</span>.\\
 Z. Zhang<sup>*</sup>, **Z. Yao<sup>*</sup>**, Y. Yang, Y. Yan, J. E. Gonzalez, and M. W. Mahoney\\
 [arXiv](https://arxiv.org/pdf/2008.11364.pdf), [code](https://github.com/jhcknzzm/SSFL-Benchmarking-Semi-supervised-Federated-Learning)
