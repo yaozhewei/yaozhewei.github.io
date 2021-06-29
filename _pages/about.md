@@ -118,6 +118,9 @@ D. Rothchild, R. Fox, N. Golmant, J. Gonzalez, M. W. Mahoney, K. Rothauge, I. St
 Integration of Deep Learning Theories, NeurIPS 2018
 
 ## Preprint and Technical Report
+* <span style="color:blue">MLPruning: A Multilevel Structured Pruning Framework for Transformer-based Models</span>.\\
+**Z. Yao**, L. Ma, S. Shen, K. Keutzer, M. W. Mahoney\\
+[arXiv](https://arxiv.org/pdf/2105.14636.pdf)
 * <span style="color:blue">Q-ASR: Integer-only Zero-shot Quantization for Efficient Speech Recognition</span>.\\
 S. Kim, A. Gholami, **Z. Yao**, A. Nrusimha, B. Zhai, T. Gao, M. W. Mahoney, K. Keutzer\\
 [arXiv](https://arxiv.org/pdf/2103.16827.pdf)
