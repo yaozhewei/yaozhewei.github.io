@@ -118,6 +118,9 @@ D. Rothchild, R. Fox, N. Golmant, J. Gonzalez, M. W. Mahoney, K. Rothauge, I. St
 Integration of Deep Learning Theories, NeurIPS 2018
 
 ## Preprint and Technical Report
+* <span style="color:blue">How Much Can CLIP Benefit Vision-and-Language Tasks?</span>.\\
+S. Shen, L. H. Li, H. Tan, M. Bansal, A. Rohrbach, K. Chang, **Z. Yao**, K Keutzer\\
+[arXiv](https://arxiv.org/pdf/2107.06383.pdf)
 * <span style="color:blue">MLPruning: A Multilevel Structured Pruning Framework for Transformer-based Models</span>.\\
 **Z. Yao**, L. Ma, S. Shen, K. Keutzer, M. W. Mahoney\\
 [arXiv](https://arxiv.org/pdf/2105.14636.pdf)
@@ -145,6 +148,8 @@ N. Golmant, N. Vemuri, **Z. Yao**, V. Feinberg, A. Gholami, K. Rothauge, M. W. M
 
 Selected Talks
 ======
+* ICML'21 ([ICML](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=10100))\\
+Onlie (Jul, 2021)
 * SIAM CSE'21: Beyond First Order Methods in Machine Learning Systems ([CSE](https://www.siam.org/conferences/cm/conference/cse21))\\
 Online (Mar, 2021)
 * AAAI'21 ([AAAI](https://aaai.org/Conferences/AAAI-21/))\\
