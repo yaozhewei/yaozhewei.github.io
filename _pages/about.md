@@ -17,6 +17,14 @@ Zhewei Yao is a senior researcher at Microsoft, working on efficient large scale
 Publications
 ======
 ## Conference
+* <span style="color:blue">How Much Can CLIP Benefit Vision-and-Language Tasks?</span>.\\
+S. Shen, L. H. Li, H. Tan, M. Bansal, A. Rohrbach, K. Chang, **Z. Yao**, K Keutzer\\
+[arXiv](https://arxiv.org/pdf/2107.06383.pdf)\\
+Accepted for publication, Proc. ICLR 2022
+* <span style="color:blue">Benchmarking Semi-supervised Federated Learning</span>.\\
+Z. Zhang<sup>*</sup>, **Z. Yao<sup>*</sup>**, Y. Yang, Y. Yan, J. E. Gonzalez, and M. W. Mahoney\\
+[arXiv](https://arxiv.org/pdf/2008.11364.pdf), [code](https://github.com/jhcknzzm/SSFL-Benchmarking-Semi-supervised-Federated-Learning)\\
+Accepted for publication, Proc. IEEE BigData 2021
 * <span style="color:blue">Hessian-Aware Pruning and Optimal Neural Implant</span>.\\
 S. Yu<sup>*</sup>, **Z. Yao<sup>*</sup>**, A. Gholami<sup>*</sup>, Z. Dong<sup>*</sup>, M. W. Mahoney, K. Keutzer\\
 [arXiv](https://arxiv.org/pdf/2101.08940.pdf), [code](https://github.com/yaozhewei/hap)\\
@@ -134,18 +142,12 @@ Integration of Deep Learning Theories, NeurIPS 2018
 * <span style="color:blue">Inexact Newton-CG Algorithms With Complexity Guarantees</span>.\\
 **Z. Yao**, P. Xu, F. Roosta, S. J. Wright, M. W. Mahoney\\
 [arXiv](https://arxiv.org/pdf/2109.14016.pdf)
-* <span style="color:blue">How Much Can CLIP Benefit Vision-and-Language Tasks?</span>.\\
-S. Shen, L. H. Li, H. Tan, M. Bansal, A. Rohrbach, K. Chang, **Z. Yao**, K Keutzer\\
-[arXiv](https://arxiv.org/pdf/2107.06383.pdf)
 * <span style="color:blue">MLPruning: A Multilevel Structured Pruning Framework for Transformer-based Models</span>.\\
 **Z. Yao**, L. Ma, S. Shen, K. Keutzer, M. W. Mahoney\\
 [arXiv](https://arxiv.org/pdf/2105.14636.pdf)
 * <span style="color:blue">Q-ASR: Integer-only Zero-shot Quantization for Efficient Speech Recognition</span>.\\
 S. Kim, A. Gholami, **Z. Yao**, A. Nrusimha, B. Zhai, T. Gao, M. W. Mahoney, K. Keutzer\\
 [arXiv](https://arxiv.org/pdf/2103.16827.pdf)
-* <span style="color:blue">Benchmarking Semi-supervised Federated Learning</span>.\\
-Z. Zhang<sup>*</sup>, **Z. Yao<sup>*</sup>**, Y. Yang, Y. Yan, J. E. Gonzalez, and M. W. Mahoney\\
-[arXiv](https://arxiv.org/pdf/2008.11364.pdf), [code](https://github.com/jhcknzzm/SSFL-Benchmarking-Semi-supervised-Federated-Learning)
 * <span style="color:blue">Residual Networks as Nonlinear Systems: Stability Analysis using Linearization</span>.\\
 K. Rothauge, **Z. Yao**, Z. Hu, and M. W. Mahoney\\
 [arXiv](https://arxiv.org/pdf/1905.13386.pdf)
