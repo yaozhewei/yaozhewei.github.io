@@ -12,11 +12,15 @@ redirect_from:
 
 About Me
 ======
-Zhewei Yao is a senior researcher at Microsoft, working on efficient large scale training and inference. He was a Ph.D. student in the [BAIR](https://bair.berkeley.edu/), [RISELab](https://rise.cs.berkeley.edu/) ([former AMPLab](https://amplab.cs.berkeley.edu)), [BDD](https://deepdrive.berkeley.edu/), and [Math Department](https://math.berkeley.edu/) at University of California at Berkeley. He was advised by [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/), and he worked very closely with [Kurt Keutzer](https://people.eecs.berkeley.edu/~keutzer/). His research interest lies in computing statistics, optimization, and machine learning. Currently, he is interested in leveraging tools from randomized linear algebra to provide efficient and scalable solutions for large-scale optimization and learning problems. He is also working on the theory and application of deep learning. Before joining UC Berkeley, he received his B.S. in Math from [Zhiyuan Honor College](http://zhiyuan.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). Here is the [CV](http://yaozhewei.github.io/files/CV.pdf) (last update 10/04/2021).
+Zhewei Yao is a senior researcher at Microsoft, working on efficient large scale training and inference. He obtained his Ph.D. degree from University of California at Berkeley, where he was a Ph.D. researcher in [BAIR](https://bair.berkeley.edu/), [RISELab](https://rise.cs.berkeley.edu/) ([former AMPLab](https://amplab.cs.berkeley.edu)), [BDD](https://deepdrive.berkeley.edu/), and [Math Department](https://math.berkeley.edu/). He was advised by [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/), and he worked very closely with [Kurt Keutzer](https://people.eecs.berkeley.edu/~keutzer/). His research interest lies in computing statistics, optimization, and machine learning. Currently, he is interested in leveraging tools from randomized linear algebra to provide efficient and scalable solutions for large-scale optimization and learning problems. He is also working on the theory and application of deep learning. Before joining UC Berkeley, he received his B.S. in Math from [Zhiyuan Honor College](http://zhiyuan.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). Here is the [CV](http://yaozhewei.github.io/files/CV.pdf) (last update 10/04/2021).
 
 Publications
 ======
 ## Conference
+* <span style="color:blue">Q-ASR: Integer-only Zero-shot Quantization for Efficient Speech Recognition</span>.\\
+S. Kim, A. Gholami, **Z. Yao**, A. Nrusimha, B. Zhai, T. Gao, M. W. Mahoney, K. Keutzer\\
+[arXiv](https://arxiv.org/pdf/2103.16827.pdf)\\
+Accepted for publication, Proc. ICASSP 2022
 * <span style="color:blue">How Much Can CLIP Benefit Vision-and-Language Tasks?</span>.\\
 S. Shen, L. H. Li, H. Tan, M. Bansal, A. Rohrbach, K. Chang, **Z. Yao**, K Keutzer\\
 [arXiv](https://arxiv.org/pdf/2107.06383.pdf)\\
@@ -139,15 +143,15 @@ D. Rothchild, R. Fox, N. Golmant, J. Gonzalez, M. W. Mahoney, K. Rothauge, I. St
 Integration of Deep Learning Theories, NeurIPS 2018
 
 ## Preprint and Technical Report
+* <span style="color:blue">DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale</span>.\\
+S. Rajbhandari, C. Li, **Z. Yao**, M. Zhang, R. Y. Aminabadi, A. A. Awan, J. Rasley, Y. He\\
+[arXiv](https://arxiv.org/pdf/2201.05596.pdf)
 * <span style="color:blue">Inexact Newton-CG Algorithms With Complexity Guarantees</span>.\\
 **Z. Yao**, P. Xu, F. Roosta, S. J. Wright, M. W. Mahoney\\
 [arXiv](https://arxiv.org/pdf/2109.14016.pdf)
 * <span style="color:blue">MLPruning: A Multilevel Structured Pruning Framework for Transformer-based Models</span>.\\
 **Z. Yao**, L. Ma, S. Shen, K. Keutzer, M. W. Mahoney\\
 [arXiv](https://arxiv.org/pdf/2105.14636.pdf)
-* <span style="color:blue">Q-ASR: Integer-only Zero-shot Quantization for Efficient Speech Recognition</span>.\\
-S. Kim, A. Gholami, **Z. Yao**, A. Nrusimha, B. Zhai, T. Gao, M. W. Mahoney, K. Keutzer\\
-[arXiv](https://arxiv.org/pdf/2103.16827.pdf)
 * <span style="color:blue">Residual Networks as Nonlinear Systems: Stability Analysis using Linearization</span>.\\
 K. Rothauge, **Z. Yao**, Z. Hu, and M. W. Mahoney\\
 [arXiv](https://arxiv.org/pdf/1905.13386.pdf)
