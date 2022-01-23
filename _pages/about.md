@@ -165,7 +165,7 @@ N. Golmant, N. Vemuri, **Z. Yao**, V. Feinberg, A. Gholami, K. Rothauge, M. W. M
 Selected Talks
 ======
 * ICML'21 ([ICML](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=10100))\\
-Onlie (Jul, 2021)
+Online (Jul, 2021)
 * SIAM CSE'21: Beyond First Order Methods in Machine Learning Systems ([CSE](https://www.siam.org/conferences/cm/conference/cse21))\\
 Online (Mar, 2021)
 * AAAI'21 ([AAAI](https://aaai.org/Conferences/AAAI-21/))\\
