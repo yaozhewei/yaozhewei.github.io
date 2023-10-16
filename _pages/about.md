@@ -31,6 +31,10 @@ Accepted for publication, Proc. ICML 2022
 
 Selected Talks
 ======
+* ICCV'23 ([LBQNN](https://sites.google.com/view/lbqnn-iccv-23/home)) \\
+Online (Oct, 2023), [slides](http://yaozhewei.github.io/files/zeroquant_series.pdf)
+* MeiTuan Research 23 \\
+Online (May, 2023), [slides](http://yaozhewei.github.io/files/Large_scale.pdf)
 * ICML'21 ([ICML](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=10100))\\
 Online (Jul, 2021)
 * SIAM CSE'21: Beyond First Order Methods in Machine Learning Systems ([CSE](https://www.siam.org/conferences/cm/conference/cse21))\\
