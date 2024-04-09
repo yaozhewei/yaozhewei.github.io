@@ -12,7 +12,7 @@ redirect_from:
 
 About Me
 ======
-Zhewei Yao is a principal researcher and R&D manager at Microsoft, working on efficient large scale training and inference. He obtained his Ph.D. degree from University of California at Berkeley, where he was a Ph.D. researcher in [BAIR](https://bair.berkeley.edu/), [RISELab](https://rise.cs.berkeley.edu/) ([former AMPLab](https://amplab.cs.berkeley.edu)), [BDD](https://deepdrive.berkeley.edu/), and [Math Department](https://math.berkeley.edu/). He was advised by [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/), and he worked very closely with [Kurt Keutzer](https://people.eecs.berkeley.edu/~keutzer/). His research interest lies in computing statistics, optimization, and machine learning. Currently, he is interested in leveraging tools from randomized linear algebra to provide efficient and scalable solutions for large-scale optimization and learning problems. He is also working on the theory and application of deep learning. Before joining UC Berkeley, he received his B.S. in Math from [Zhiyuan Honor College](http://zhiyuan.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) (last update 8/23/2023).
+Zhewei Yao is a senior scientist and SDE II at Snowflake as a founding member of Snowflake large scale training. Before this, Zhewei was a principal researcher and R&D manager at Microsoft, working on efficient large scale training and inference. He obtained his Ph.D. degree from University of California at Berkeley, where he was a Ph.D. researcher in [BAIR](https://bair.berkeley.edu/), [RISELab](https://rise.cs.berkeley.edu/) ([former AMPLab](https://amplab.cs.berkeley.edu)), [BDD](https://deepdrive.berkeley.edu/), and [Math Department](https://math.berkeley.edu/). He was advised by [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/), and he worked very closely with [Kurt Keutzer](https://people.eecs.berkeley.edu/~keutzer/). His research interest lied in computing statistics, optimization, and machine learning. Before joining UC Berkeley, he received his B.S. in Math from [Zhiyuan Honor College](http://zhiyuan.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) (last update 4/08/2024).
 
 Publications (See full list at [Google Scholar](https://scholar.google.com/citations?user=uG6vN6QAAAAJ&hl=en))
 ======
@@ -63,9 +63,3 @@ Colorado Convention Center, Denver, Colorado, USA (July, 2019), [slides](http://
 Berkeley, CA, USA (November, 2018), [slides](http://yaozhewei.github.io/files/absa.pdf)
 * Berkeley Real-time Intelligent Secure Explanaible Systems Lab Sponsor Retreat ([RiseLab](https://rise.cs.berkeley.edu/))\\
 Tahoe Lake, CA, USA (August, 2018), [slides](http://yaozhewei.github.io/files/absa.pdf)
-
-Teaching
-======
-* [Stat 89A](https://www.stat.berkeley.edu/~mmahoney/s18-lads/), Spring 2018
-* [Math 16A](https://math.berkeley.edu/~apaulin/16B_001%20(Spring%202017).html), Spring 2017
-* Math 16A, Fall 2016
